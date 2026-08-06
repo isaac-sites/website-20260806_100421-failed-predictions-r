@@ -1,0 +1,5079 @@
+{
+  "generated_at_utc": "2026-08-06T08:52:55.161766Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 211,
+    "pages_review_recommended": 1,
+    "warning_reason_counts": {
+      "single_reader_role": 1
+    }
+  },
+  "pages": [
+    {
+      "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_observer_headcounts_752da1",
+      "title": "When Researchers Looked Like New Converts",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Interpreting Dorothy Martin's UFO Growth",
+        "Social Atmosphere of UFO Meetings",
+        "Observer Presence in Martin Meetings"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1",
+      "title": "When UFO Prophecies Miss Their Deadlines",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Failed UFO Predictions",
+        "Mechanisms of Prediction Survival",
+        "Criteria for Valid UFO Forecasts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+      "title": "Do Public Bets Make UFO Claims More Credible?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ruth Norman's UFO Prediction Time line",
+        "Testability of the Unarius Wager",
+        "Unarius Academy of Science Beliefs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_ladbrokes_role_not_e_302b20",
+      "title": "Did Ladbrokes Endorse Ruth Norman's UFO Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ladbrokes Wager Settlement Process",
+        "Betting Odds vs Scientific Evidence",
+        "Ladbrokes Verification Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_norman_wager_stake_d_e21532",
+      "title": "Was Ruth Norman's UFO Bet Really Worth $4,000?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "cards_grid"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Ruth Norman Wager Monetary Discrepancies",
+        "Verified Facts of the 1976 Wager",
+        "Reasons for Monetary Discrepancies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_sincerity_not_accura_88023e",
+      "title": "Does Betting Money Make a UFO Prediction Credible?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Mechanics of Ruth Norman's Wager",
+        "Sincerity vs. Accuracy in Predictions",
+        "Factors of Credibility in UFO Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_ufo_wager_missing_te_218452",
+      "title": "What Would Have Counted as an Alien Landing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Ruth Norman's 1976 UFO Wager Time line",
+        "Ambiguities in the Landing Contract",
+        "Structural Failures of the Wager"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_ufo_wager_publicity_f44313",
+      "title": "How a Lost UFO Bet Became Effective Publicity",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Unarius Wager Media Strategy",
+        "Prophecy vs. Wager Dynamics",
+        "Elements of the Wager's Success"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_wager_vs_ufo_sightin_4744dc",
+      "title": "Why a Failed Landing Bet Was Easier to Judge",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "tree_map",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "UFO Sighting Reports vs. Norman Wager",
+        "Evidence Trails of Planetary Landings",
+        "Testability vs. Truth in UFO Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+      "title": "Can a Failed Prophecy Claim It Saved the World?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Dorothy Martin Prediction Cycle",
+        "Conditional vs. Retrospective Claims",
+        "Risks of Prevention Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_circular_evidence_pr_2d2fbd",
+      "title": "When the Prophet Verifies the Prophet",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Circular Evidence in UFO Prophecies",
+        "Prophetic vs. Scientific Forecasting",
+        "Resilience Features of Circular Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_counterfactual_disas_fd6dd9",
+      "title": "How Do You Test a Disaster That Never Happened?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Logic of Counterfactual Prevention",
+        "Testing Methods: Science vs. Belief",
+        "Barriers to Falsifying Prevention Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_later_failed_prophec_c7f8aa",
+      "title": "Does Failed Prophecy Really Strengthen Belief?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Unarius Movement",
+        "Festinger's Theory vs. Modern Research",
+        "Group Responses to Failed Prophecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_proof_disaster_was_a_9c59f3",
+      "title": "What Would Count as Proof of Prevention?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Verifying UFO Prevention Claims",
+        "Evidence vs. Circular Reasoning",
+        "Competing Explanations for Non Occurrence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_real_vs_belief_preve_d166ac",
+      "title": "How Real Prevention Leaves Evidence Behind",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evidence Chain for Practical Prevention",
+        "Practical vs. Belief Based Prevention",
+        "Evidence Based Prevention Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_unfalsifiable_preven_4f99da",
+      "title": "Can a Disaster Prevention Prophecy Ever Fail?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Spiritual Prevention Claims",
+        "Spiritual vs. Engineering Prevention",
+        "Requirements for Falsifiable Prophecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+      "title": "Can Channelled UFO Messages Ever Be Tested?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Channelled UFO Predictions",
+        "Testability of Channelled UFO Claims",
+        "Mechanisms of Channelled Prediction Defense"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_channelled_predictio_791102",
+      "title": "Was the UFO Prediction Recorded Before It Failed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "cards_grid",
+        "lighthouse"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Standard for Preserving UFO Predictions",
+        "Mechanisms of Prediction Alteration",
+        "Evidence Quality in UFO Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_martin_norman_channe_565984",
+      "title": "How Two UFO Channels Survived Failed Arrivals",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_snake",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "chronology"
+      ],
+      "titles": [
+        "Martin vs. Norman Prophecy Models",
+        "The Clarion Rescue Failure Key Stages",
+        "Mechanisms of Channeled Authority"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_missed_event_two_lay_3b3ffd",
+      "title": "What Does a Missed UFO Landing Actually Disprove?",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "list_vertical",
+        "prism"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Public Claims vs. Private Beliefs",
+        "Reinterpretations of Failed UFO Landings",
+        "Levels of UFO Belief Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_private_ufo_source_v_a903f9",
+      "title": "Why UFO Channels Cannot Verify Their Sources",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Channelled Prediction Lifecycle",
+        "Human Witness vs. Channelled Source",
+        "Barriers to Independent Verification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_sincere_channels_fal_b24d0c",
+      "title": "Can a Sincere UFO Channel Still Be Wrong?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Failed UFO Predictions",
+        "Sincerity vs. Objective Accuracy",
+        "Explanations for Failed UFO Prophecies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_sole_gateway_ufo_aut_3d4e75",
+      "title": "Why One Channel Becomes the Only Trusted Messenger",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Logic of Channelled UFO Prophecy",
+        "Sole Gateway vs Scientific Authority",
+        "Barriers to Verifying UFO Prophecies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+      "title": "How Automatic Writing Produced a UFO Deadline",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Clarion Prophecy",
+        "Evidence vs. Belief in Clarion Records",
+        "Components of the Clarion System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_automatic_writing_so_97cc05",
+      "title": "Could Automatic Writing Ever Verify Clarion?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Dorothy Martin's Automatic Writing Process",
+        "Verifiable vs. Unverifiable Evidence",
+        "Factors of the Clarion Belief System"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_clarion_bethurum_con_28df18",
+      "title": "Was Clarion Already Part of UFO Folklore?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Key Stages in Clarion in UFO Culture",
+        "Bethurum vs Martin Clarion Portrayals",
+        "Elements of Clarion Folklore"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_clarion_documents_pr_1fe0c3",
+      "title": "What Do the Surviving Clarion Records Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Key Stages in the Clarion Prophecy",
+        "Evidence for Belief vs. Alien Claims",
+        "Historical Value of Clarion Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_clarion_group_confir_230b04",
+      "title": "Did Matching Messages Really Confirm Clarion?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Clarion Communication Cycle",
+        "Evidence vs. Shared Beliefs",
+        "Factors Weakening Evidential Force"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_clarion_prophecy_pub_e0f950",
+      "title": "How Private Clarion Messages Became Public News",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Publicity Time line of the Clarion Prophecy",
+        "Private Revelation vs. Public Claim",
+        "Factors Making Prophecy Testable"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_martin_changing_mess_5b9cff",
+      "title": "Who Was Supposedly Speaking Through Dorothy Martin?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Dorothy Martin's Messengers",
+        "Authority Shifts in Clarion Messages",
+        "Hierarchy of the Clarion Cosmology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+      "title": "Why Comets Attract Hidden Spacecraft Rumours",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Hale Bopp Spacecraft Rumor Progression",
+        "Hale Bopp Companion Interpretations",
+        "Layers of the Hale Bopp Myth"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_altered_mauna_kea_im_3753da",
+      "title": "The Hale Bopp Photo That Was Quietly Altered",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mauna Kea Image Manipulation Key Stages",
+        "Provenance vs. Anonymous Authority",
+        "Evidence of Image Manipulation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_hale_bopp_saturn_sha_590aa9",
+      "title": "Why Hale Bopp's Mystery Object Looked Like Saturn",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hale Bopp Image Processing Pipeline",
+        "Hale Bopp Companion Interpretations",
+        "Factors Influencing Visual Distortion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_hale_bopp_sodium_tai_350c90",
+      "title": "Why Hale Bopp's Third Tail Looked So Mysterious",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Formation of Hale Bopp Sodium Tail",
+        "Hale Bopp Scientific vs. UFO Claims",
+        "Cometary Tail Classification Systems"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_missing_star_chart_d_41f338",
+      "title": "How a Missing Star Became a Spacecraft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Verification of the Hale Bopp Companion",
+        "Interpretations of the Missing Chart Entry",
+        "Factors Influencing Chart Mismatches"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_real_comet_companion_f83066",
+      "title": "How Astronomers Would Test a Comet Companion",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Astronomical Orbit Determination Process",
+        "Hale Bopp Companion Interpretations",
+        "Evidence Against Hale Bopp UFOs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_visible_comet_visual_66193b",
+      "title": "Why the Visible Comet Made the Rumour Convincing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Psychological Anchoring of Hale–Bopp Rumors",
+        "Hale–Bopp Companion Interpretations",
+        "Visual Features of Comet Hale–Bopp"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+      "title": "How to Preserve a UFO Prediction for Testing",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Verifying a UFO Prediction Claim",
+        "Weak vs Strong Prediction Records",
+        "Components of a Preservation Package"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_prove_prediction_pre_eff61d",
+      "title": "Can You Prove the Prediction Came First?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Verifying UFO Prediction Time lines",
+        "Claimed vs Verified Publication Dates",
+        "Reliable Sources of Prior Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_testable_ufo_predict_cfd947",
+      "title": "Which Words Make a UFO Prediction Testable?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Recording UFO Predictions Fairly",
+        "Testable vs. Untestable Wording",
+        "Commitments in UFO Predictions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_ufo_evidence_hashes_b0837c",
+      "title": "Can Digital Proof Show a File Was Untouched?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UFO Prediction Integrity Workflow",
+        "Hash vs. Trusted Time stamp Limits",
+        "High Risk Prediction Scenarios"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_ufo_prediction_evide_dd1993",
+      "title": "What Belongs in a UFO Prediction Case File?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "UFO Prediction Evidence Collection Workflow",
+        "Claim Sheet vs. Researcher Summary",
+        "UFO Prediction Evidence Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_ufo_prediction_times_fd26a4",
+      "title": "Which Timestamp Should You Trust?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Verifying UFO Prediction Key Stages",
+        "Time stamp Evidence Types in Records",
+        "Misleading Digital Publication Dates"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_ufo_screenshot_verif_3105c0",
+      "title": "Why a Screenshot Is Not Enough Proof",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "UFO Prediction Documentation Workflow",
+        "Screen shot Limits vs. Corroboration",
+        "Risks of Screen shot Attribution"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+      "title": "How a Failed UFO Rescue Became a Success",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Time line of the 1954 Flood Prophecy",
+        "Interpretations of the Failed Prophecy",
+        "Participant Reactions to Failure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_costly_commitments_2162e3",
+      "title": "Why Walking Away Became So Difficult",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "cards_grid",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Sacrifices of Dorothy Martin Followers",
+        "Interpretations of the Martin Case",
+        "Psychological Pressures of Public Commitment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_failure_became_succe_f7ab37",
+      "title": "How Failure Became Proof the World Was Saved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1954 Prophecy Failure Key Stages",
+        "Prophecy Success Redefinition Models",
+        "Historical Interpretations of the Movement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_final_night_timeline_00849b",
+      "title": "What Happened During Dorothy Martin's Final Night?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The 20 21 December 1954 Time line",
+        "Interpretations of the Failed Prophecy",
+        "Evidence of Prophecy Failure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_publicity_claim_disp_1ca655",
+      "title": "Did the Seekers Really Start Proselytizing Afterward?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "The Seekers' Pre Flood Publicity Time line",
+        "Interpretations of Post Flood Behavior",
+        "Evidence Against the Classic Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_researcher_observer_1e232f",
+      "title": "Did the Researchers Change the Prophecy Group?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Methodology of the 1954 UFO Study",
+        "Interpretations of the Martin Prophecy",
+        "Factors Influencing Post Prophecy Behavior"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_when_prophecy_fails_f866f6",
+      "title": "How Reliable Is When Prophecy Fails Today?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Dorothy Martin Prophecy Time line",
+        "Interpretations of Cognitive Dissonance",
+        "Evidence from When Prophecy Fails"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+      "title": "The UFO Mass Sighting That Never Happened",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Blossom Goodchild 2008 Prediction Time line",
+        "Pre vs Post Deadline Claims",
+        "Falsifiable Conditions of the Forecast"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_aborted_plan_unfalsi_ed2a4d",
+      "title": "Could an Aborted Plan Ever Be Disproved?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the 2008 UFO Prediction",
+        "Interpretations of the Non Appearance",
+        "Elements of the Unfalsifiable Claim"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_alabama_location_con_623e86",
+      "title": "Why Did the Prediction Name Alabama?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Retrospective Interpretations of Alabama",
+        "Alabama Reference Interpretations",
+        "Core Prediction Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_failure_reframed_as_9f6f51",
+      "title": "How Did Failure Become a Spiritual Victory?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Federation of Light Prediction Shift",
+        "Observable vs. Subjective Success",
+        "Mechanisms of Failed Prophecy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_federation_predictio_943ce3",
+      "title": "What Was Supposed to Happen on October 14?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Federation of Light 2008 Prediction Time line",
+        "Testable Criteria of the 2008 Prediction",
+        "Interpretations of the Alabama Reference"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_online_ufo_countdown_407fd1",
+      "title": "How the Internet Built a UFO Countdown",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Viral Spread of 2008 UFO Prediction",
+        "Mechanisms of Online Momentum Building",
+        "Digital Platforms for UFO Culture"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_three_day_observatio_342d4a",
+      "title": "What Happened During the Promised Three Days?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Criteria for Blossom Goodchild Prediction Success",
+        "Prediction vs. Actual Observations 2008",
+        "Categories of Non Qualifying Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+      "title": "What Happens When the Telescope Shows Nothing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Hale Bopp Companion Claim Time line",
+        "Interpretations of the Hale Bopp Observation",
+        "Mechanisms Protecting the Belief System"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_hidden_craft_nondete_8ac4ee",
+      "title": "How Concealment Made the Spacecraft Impossible to Disprove",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Hale Bopp UFO Claims",
+        "Observational Logic vs. Belief Systems",
+        "Mechanisms of Belief Persistence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_no_disproof_criteria_aaff4d",
+      "title": "What Would Have Counted as a Failed Prediction?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Heaven's Gate Hale Bopp Observation Shift",
+        "Testable vs. Fluid UFO Claims",
+        "Mechanisms of Belief Preservation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_returned_telescope_i_de33e4",
+      "title": "Why They Returned the Telescope Instead of Retesting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Heaven's Gate Telescope Observation Key Stages",
+        "Scientific Inquiry vs. Belief Preservation",
+        "Rigorous Follow up Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+      "title": "Why Heaven's Gate Trusted Revelation Over Astronomy",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Heaven's Gate Knowledge Hierarchy",
+        "Hale Bopp Observation vs. Doctrine",
+        "Heaven's Gate Interpretive Process"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_telescope_shop_accou_f82050",
+      "title": "How Much Can the Telescope Shop Story Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Heaven's Gate Telescope Purchase Key Stages",
+        "Evidence vs. Retelling Analysis",
+        "Corroborated Evidence Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_telescope_test_limit_eccd55",
+      "title": "Could That Telescope Really Settle the Hale Bopp Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Requirements for Decisive Telescope Tests",
+        "Hale Bopp Observation Analysis",
+        "Limitations of the Hale Bopp Check"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+      "title": "When an Unseen UFO Promise Became Lethal",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Hale Bopp Companion Rumor Progression",
+        "Companion vs Marker Interpretations",
+        "Heaven's Gate Risk Safeguard Failures"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_after_death_unverifi_1682ea",
+      "title": "The Promise No Believer Could Come Back to Test",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Heaven's Gate Prediction Mechanism",
+        "Verification Barriers in UFO Claims",
+        "Heaven's Gate Prediction Structure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_to_marker_8a05ab",
+      "title": "How a Failed Claim Became a Sacred Marker",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Heaven's Gate Hale Bopp Belief Evolution",
+        "Observable vs. Symbolic Claims",
+        "Mechanisms of Belief Insulation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_failed_telescope_tes_a40783",
+      "title": "The Telescope Test That Changed Nothing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Heaven's Gate Telescope Testing Key Stages",
+        "Hale Bopp Observation Interpretations",
+        "Mechanisms of Belief Preservation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_catalyst_n_faa47b",
+      "title": "Did Hale Bopp Cause the Heaven's Gate Deaths?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Heaven's Gate Doctrinal Evolution",
+        "Internal Beliefs vs External Signals",
+        "Hierarchy of Authority in Heaven's Gate"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_rumour_deb_b61b95",
+      "title": "What Was Really Beside Comet Hale Bopp?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Deconstruction of the Hale Bopp Companion Claim",
+        "Astronomical Explanations for Visual Anomalies",
+        "Evidence Against the Hale Bopp Companion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_media_amplified_spac_99036f",
+      "title": "How One UFO Rumour Became Many Voices",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hale–Bopp Spacecraft Rumor Progression",
+        "Hale–Bopp Companion Interpretations",
+        "Mechanisms of False Corroboration"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+      "title": "Was Humanity Blamed for the Missing UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Unarius Academy Landing Time line",
+        "Ground Crew Project Explanations",
+        "Mechanisms of Readiness Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_believers_responsibl_312c64",
+      "title": "Why First Contact Became the Followers' Job",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Prophetic Resilience",
+        "Passive vs Active UFO Beliefs",
+        "Ground Crew Movement Dynamics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_ground_crew_landing_f2e1b6",
+      "title": "How Ground Crew Kept Moving First Contact",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ground Crew Project Landing Time line",
+        "Explanations for Failed UFO Landings",
+        "Ground Crew Spiritual Responsibilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_protective_delay_exc_03ca4b",
+      "title": "Did Aliens Cancel Contact to Protect US?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Logic of Protective Delay Explanations",
+        "Reasons for Withheld Contact",
+        "Resistance to Falsification in UFO Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_readiness_burden_of_e4ff61",
+      "title": "Who Must Prove Humanity Was Ready?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "process_steps",
+        "prism"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "Verification vs. Readiness Claims",
+        "The Burden of Proof Shift",
+        "Metrics for Human Readiness"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_readiness_rule_befor_6af725",
+      "title": "Was Humanity's Readiness Rule Set in Advance?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Post Failure Prediction Reframing Process",
+        "Advance vs. Retrospective Conditions",
+        "Criteria for Valid Advance Conditions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_skepticism_as_unread_1af515",
+      "title": "When Doubt Becomes the Reason Aliens Stay Away",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Reframing Failed UFO Landing Predictions",
+        "Interpretations of Public Skepticism",
+        "Social Costs of Questioning Failure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+      "title": "How the Internet Globalised UFO Deadlines",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ground Crew Project Prediction Time line",
+        "Newsletter Era vs. Networked Prophecy",
+        "Online Prophecy Reinterpretation Strategies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_ground_crew_online_p_ea3ae3",
+      "title": "How the Ground Crew Built an Online Prophecy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Ground Crew Project Digital Evolution",
+        "Ground Crew Website Functions",
+        "Explanations for Prophetic Failure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_halebopp_ground_crew_f425be",
+      "title": "How Hale Bopp Revived a Failed Landing Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ground Crew Hale Bopp Narrative Time line",
+        "Hale Bopp Interpretations and Claims",
+        "Prophetic Adaptation Strategies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_landing_to_spiritual_5717e0",
+      "title": "When Alien Rescue Became Inner Transformation",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Ground Crew Project Prediction Time line",
+        "Physical vs. Spiritual UFO Claims",
+        "Mechanisms of Prophetic Adaptation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_online_repetition_fa_2b1bf2",
+      "title": "Why Reposted UFO Claims Looked Like Confirmation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Propagation of UFO Prophecies Online",
+        "Repetition vs. Independent Evidence",
+        "Internet Architecture Amplifying Prophecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_photon_belt_deadline_dced9f",
+      "title": "Why the Photon Belt Landing Never Arrived",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_petal"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ground Crew Photon Belt Time line",
+        "Ground Crew Justification Strategies",
+        "Mechanisms of Internet Prophecy Drift"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_ufo_prophecy_web_arc_d0319e",
+      "title": "Can a Prophecy Website Preserve Its Own Failure?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Web Content Modification Lifecycle",
+        "Live Sites vs. Independent Archives",
+        "Methods of Obscuring Prophecy Failures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+      "title": "Do Unresolved UFO Reports Rescue Failed Prophecies?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Failed Arrival Prophecies",
+        "UAP Reports vs. Arrival Prophecies",
+        "AARO and NASA UAP Classifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_aaro_unresolved_case_7f814d",
+      "title": "Why Some Ordinary UAP Cases Stay Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Unresolved Case Workflow",
+        "AARO Evidence vs. Public Perception",
+        "Factors Preventing UAP Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_blue_book_unidentifi_5a99e6",
+      "title": "What Blue Book's Unidentified Cases Did Not Prove",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Unidentified vs. Extraterrestrial Claims",
+        "Project Blue Book Statistical Summary"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_nasa_uap_data_qualit_c12aeb",
+      "title": "Why NASA Wants Better Data Before Answers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "NASA UAP Data Quality Workflow",
+        "NASA UAP vs. Astrobiology Research",
+        "Common UAP Data Shortcomings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_uap_2024_report_numb_b27307",
+      "title": "What the 2024 UAP Numbers Actually Mean",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "AARO 2024 UAP Report Categories",
+        "UAP Data Quality vs. Alien Claims",
+        "AARO 2024 Dataset Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_uap_prophecy_fulfilm_d35cd3",
+      "title": "Can a Later UAP Rescue a Failed Prophecy",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Practical Prophecy Fulfilment Test",
+        "Prophecy vs. Official UAP Investigation",
+        "Common Reasoning Errors in Prophecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_uap_security_not_ali_894908",
+      "title": "Why UAP Reviews Are Not Alien Announcements",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "list_vertical",
+        "tug_of_war"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "UAP Investigation vs. Arrival Prophecies",
+        "AARO and NASA UAP Objectives",
+        "Conventional vs. Speculative Explanations"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+      "title": "When UFO Repetition Looks Like Independent Proof",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Anatomy of a False Corroboration Cascade",
+        "Distribution vs. Genuine Corroboration",
+        "Warning Signs of Circular Reporting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_failed_ufo_archive_i_7a0d62",
+      "title": "Why Failed UFO Predictions Still Look Supported Online",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Life Cycle of a Failed UFO Prediction",
+        "Archive Illusion vs. Historical Reality",
+        "Verification Steps for Archived UFO Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_trace_ufo_prediction_842ecd",
+      "title": "Where Did the UFO Prediction Really Begin?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Tracing UFO Predictions to Origins",
+        "Copying vs. Independent Reporting",
+        "Common Source Tracing Errors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_citation_loops_fc567e",
+      "title": "When UFO Sources Only Point to Each Other",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Source Laundering Progression Chain",
+        "Circular Reporting Warning Signs",
+        "Evidence Quality vs. Volume"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_debunk_amplifica_71a589",
+      "title": "When Debunking Gives a UFO Claim More Reach",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFO Prediction Visibility Cycle",
+        "Factors Driving Illusory Truth",
+        "Safer Reporting Strategies for UFOs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_engagement_not_e_2a287b",
+      "title": "Can Viral Attention Ever Verify a UFO Prediction?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Chain of Viral UFO Predictions",
+        "Engagement vs. Empirical Evidence",
+        "AARO Evidence Standards for UAP"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_illusory_truth_e_35ccfe",
+      "title": "Why Repeated UFO Claims Start Feeling True",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UFO Prediction Visibility Cycle",
+        "Familiarity vs. Evidence Analysis",
+        "Factors Reducing Illusory Truth"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+      "title": "Why Failed UFO Deadlines Keep Moving Forward",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "timeline_snake",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Unarius Academy Landing Time line",
+        "Mechanisms of UFO Date Shifting",
+        "Credible Revision vs. Evasive Postponement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_distant_ufo_date_res_ded527",
+      "title": "Why Failed UFO Dates Jump Years Ahead",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Long Prophecy Resets",
+        "Interpretations of Dorothy Martin's Prophecy",
+        "Benefits of Distant Date Postponements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ground_crew_1996_del_da1a17",
+      "title": "How Ground Crew Turned a Missed Landing Into a Process",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ground Crew Project Prediction Time line",
+        "Prophecy Adaptation Strategies",
+        "Ground Crew Project Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_human_readiness_ufo_3e09ba",
+      "title": "Can Humanity Ever Be Ready Enough for Contact?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Self Extending Readiness Cycle",
+        "Readiness vs. Calendar Predictions",
+        "Human Readiness Criteria in UFO Movements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_rolling_ufo_deadline_4189fa",
+      "title": "Why Some UFO Deadlines Never Quite Expire",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Reframing Failed UFO Landing Predictions",
+        "Interpretations of Dorothy Martin's Group",
+        "Types of Rolling Windows"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ufo_interference_exc_4904e9",
+      "title": "Who Gets Blamed When the UFOs Do Not Arrive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Failed UFO Prophecy",
+        "Interference Narrative Categories",
+        "Evidence for Interference Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ufo_spiritual_proces_2be809",
+      "title": "When a Missing Spacecraft Becomes Inner Transformation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "UFO Prediction Reinterpretation Key Stages",
+        "Testable vs. Subjective Claims",
+        "Methods of Spiritual Participation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+      "title": "Why an Unexplained UFO Is Not a Prophecy",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "rank_podium"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "UAP Classification Hierarchy",
+        "Observation vs. Prediction Logic",
+        "AARO FY 2025 Reporting Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_aaro_active_archive_0368e3",
+      "title": "What AARO's Active Archive Really Means",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "list_vertical",
+        "grid_stats"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "AARO Archive vs Specialist Referrals",
+        "Reasons for AARO Archive Placement",
+        "AARO FY 2024 and FY 2025 Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_blue_book_unidentifi_5a99e6",
+      "title": "What Blue Book's Unidentified Cases Actually Proved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Lifecycle",
+        "Misconceptions of Unidentified Cases",
+        "Blue Book Investigation Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_later_sightings_fail_fd7c9f",
+      "title": "Can a Later Sighting Rescue a Failed Prediction?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Validating UFO Prediction Success",
+        "Prediction vs. Investigation Logic",
+        "Retrospective Reinterpretation Tactics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_nasa_uap_missing_evi_d37999",
+      "title": "What NASA Says UFO Reports Often Lack",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "cards_grid",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "NASA UAP Sensor Deficiencies",
+        "Human Testimony vs. Scientific Evidence",
+        "NASA UAP Data Improvement Path"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_ufo_cases_insufficie_6343cc",
+      "title": "Why Some UFO Cases Stay Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Missing Records in UAP Investigations",
+        "Unresolved Cases vs. Alien Evidence",
+        "Factors Distorting UAP Interpretation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_unidentified_not_ext_a1ea32",
+      "title": "Why Unidentified Still Does Not Mean Alien",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "UAP Identification Knowledge Boundaries",
+        "Evidence vs. Missing Explanation",
+        "Retrospective Prediction Validation Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81",
+      "title": "Did Watching the UFO Believers Change Them?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Dorothy Martin Prophecy Time line",
+        "Interpretations of Post Failure Behavior",
+        "Safeguards for Future UFO Studies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_child_welfare_interf_8d117a",
+      "title": "When Covert Research Reached a Welfare Investigation",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "fact_box_sidebar",
+        "comparison_columns"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Researcher Interference in Martin Case",
+        "Observation vs. Intervention Boundaries",
+        "Impact on Evidence Reliability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_christmas_eve_media_bb40a2",
+      "title": "How the Christmas Eve Crowd Changed the Failure",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1954 UFO Prophecy",
+        "Believer Explanations for Missing Craft",
+        "Press and Public Dynamics in Oak Park"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_fabricated_psychic_m_030fc0",
+      "title": "Were Some UFO Messages Created by Researchers?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Planted Messages",
+        "Interpretations of the Martin Case",
+        "Allegations of Research Misconduct"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_riecken_earthly_veri_abfa29",
+      "title": "Did Henry Riecken Become Part of the Prophecy?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Riecken's Role in UFO Prophecy",
+        "Riecken's Influence Interpretations",
+        "Functions of an Earthly Verifier"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_selective_access_qui_9337a6",
+      "title": "What Happened to the Believers Who Went Quiet?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Selective Survival",
+        "Interpreting Silence in UFO Records",
+        "Behaviors Following Failed Prophecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+      "title": "Why Ruth Norman's UFO Landings Kept Moving",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Unarius Academy UFO Landing Deadlines",
+        "Explanations for Missed Deadlines",
+        "Unarius Material Preparations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669_1975_landing_countdo_9b1d33",
+      "title": "What Happened Before the September 1975 Landing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Unarius 1974 1975 Prophecy Time line",
+        "Unarius Landing Site Preparations",
+        "Explanations for the Failed Landing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669_deadline_to_readines_509ab6",
+      "title": "How Did a Deadline Become Conditional?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "earth_core"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ruth Norman UFO Landing Time line",
+        "Fixed Dates vs. Readiness Conditions",
+        "Unarius Prophetic Adaptation Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669_isis_past_life_expla_fd280b",
+      "title": "Why Did Unarius Blame a Past Life?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Unarius Prophecy Failure Key Stages",
+        "Interpretations of Prophetic Failure",
+        "Unarius Academy Therapeutic Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669_jamul_ufo_landing_si_3856eb",
+      "title": "Why Did Unarius Buy a UFO Landing Site?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Unarius Academy Jamul Site Key Stages",
+        "Tangible Belief vs Abstract Prophecy",
+        "Governance Functions of Jamul Property"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669_ladbrokes_ufo_wager_bc971e",
+      "title": "What Did the Lost UFO Bet Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of the Ladbrokes Wager",
+        "Unarius Prophecy Interpretations",
+        "Evidence of the Ladbrokes Wager"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669_ufo_landing_moved_to_bd2e05",
+      "title": "Why Did Unarius Choose the Year 2001?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Unarius Academy Prophetic Time line",
+        "Core Elements of the Myton Fleet",
+        "Interpretations of the 2001 Failure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926",
+      "title": "Why Exact UFO Dates Spread So Fast",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Lifecycle of a UFO Prediction",
+        "Specificity vs. Predictive Accuracy",
+        "Elements of a Shareable UFO Prediction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926_dated_ufo_news_cycle_ddf647",
+      "title": "Why Newsrooms Love a Dated UFO Claim",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "UFO Prediction News Lifecycle",
+        "News Values in UFO Claims",
+        "Media Dynamics of UFO Dates"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926_skeptical_ufo_amplif_0b9412",
+      "title": "How Debunking Can Amplify a UFO Prediction",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "UFO Prediction Circulation Cycle",
+        "Visibility vs. Belief Dynamics",
+        "Debunking Best Practices for UFO Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926_ufo_countdown_attent_848246",
+      "title": "How a UFO Countdown Changes What People Watch",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "funnel_layers"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Countdown Mechanics of UFO Predictions",
+        "Audience Motivations for Dated Predictions",
+        "Scrutiny of Ordinary Sky Phenomena"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926_ufo_false_precision_82adb3",
+      "title": "When UFO Prediction Detail Looks Like Proof",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Misplaced Confidence",
+        "Precision vs. Reliable Evidence",
+        "Verification Questions for UFO Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926_ufo_prediction_failu_3de2d1",
+      "title": "Why Detailed UFO Predictions Are Easier to Disprove",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Falsification of UFO Predictions",
+        "Precision vs. Accuracy Trade offs",
+        "Criteria for Falsifiable UFO Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926_vivid_ufo_prediction_18b0e7",
+      "title": "Why Vivid UFO Predictions Stay in Memory",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Cognitive Processing of Vivid Predictions",
+        "Vividness vs. Evidential Accuracy",
+        "Elements of Vivid UFO Predictions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be",
+      "title": "When a Missing UFO Becomes 'Spiritual Contact'",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Spiritualisation of Failed Prophecy",
+        "Pre Deadline vs. Post Deadline Language",
+        "Case Studies in Spiritualisation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be_absence_becomes_ufo_738e0b",
+      "title": "Why No UFO Can Still Count as Contact",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFO Prophecy Reinterpretation Key Stages",
+        "Explanations for Missing Spacecraft",
+        "Unfalsifiable Logic in UFO Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be_online_ufo_reframing_1a2097",
+      "title": "Why Failed UFO Predictions Multiply Online",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Spiritual Reinterpretations of UFO Landings",
+        "Mechanisms of Networked Authority",
+        "Fragmented Disconfirmation in UFO Communities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be_open_ended_ufo_timel_df480f",
+      "title": "How One Missed Date Becomes an Endless Prophecy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "UFO Movement Prophecy Reinterpretation",
+        "Evidence Shifts in UFO Prophecy",
+        "Resilience Factors of Endless Time lines"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be_private_experience_p_9df6ef",
+      "title": "Can Inner Experiences Prove a UFO Landing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Post Prediction Experience",
+        "Public Evidence vs Private Experience",
+        "Unarius Movement Interpretive Frameworks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be_ufo_claim_wording_sh_34d13b",
+      "title": "How UFO Landing Claims Change After Failure",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "UFO Landing Prediction Vocabulary Shifts",
+        "Criteria for Testable UFO Predictions",
+        "Identifying Prediction Revisions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be_unarius_preparation_c94245",
+      "title": "How Unarius Turned Waiting Into Fulfilment",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Unarius Preparation for the Landing",
+        "Interpretations of the 2001 Non Arrival",
+        "Unarius Spiritual Practice Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef",
+      "title": "When UFO Belief Removes Every Chance to Reconsider",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Heaven's Gate Doctrine Escalation",
+        "Testable Predictions vs Unfalsifiable Beliefs",
+        "Warning Signs of Escalating Commitment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef_body_vehicle_languag_ae3eab",
+      "title": "When the Body Becomes a Disposable Vehicle",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Heaven's Gate Linguistic Shift Process",
+        "Linguistic Framing of Mortality",
+        "Warning Signs of Linguistic Isolation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef_calm_farewell_hidden_737cb7",
+      "title": "Why Calm Farewells Can Still Signal Immediate Danger",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "tree_map",
+        "venn"
+      ],
+      "roles": [
+        "other",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Heaven's Gate vs. Traditional Suicide Notes",
+        "The Illusion of Calm in UFO Prophecies",
+        "Risk Indicators in Failed UFO Predictions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef_escalating_sacrifice_f2c8c2",
+      "title": "How Small Sacrifices Build Toward an Irreversible Choice",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Heaven's Gate Commitment Escalation",
+        "Healthy vs Dangerous Commitment",
+        "Psychological Traps of Sunk Costs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef_isolation_prophecy_e_80ef23",
+      "title": "Why Isolation Makes a Deadly Prophecy Harder to Escape",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Social Isolation in Cults",
+        "Protective Factors vs. Isolation Risks",
+        "Warning Signs of Coercive Isolation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef_moralized_doubt_safe_7f0676",
+      "title": "When Doubt Becomes Betrayal Instead of Protection",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Moralized Doubt in UFO Beliefs",
+        "Social Costs of Leaving UFO Groups",
+        "Safe Exit Governance Features"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef_nettles_death_doctri_ba54cb",
+      "title": "How Bonnie Nettles' Death Changed the Prophecy",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Heaven's Gate Doctrinal Evolution Time line",
+        "Pre and Post 1985 Salvation Models",
+        "Components of the Revised Prophecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+      "title": "Why Failed UFO Beliefs Can Grow Stronger",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cognitive Dissonance in UFO Prophecy",
+        "Reinterpretations of Failed UFO Events",
+        "Factors Strengthening UFO Belief"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4_invisible_ufo_contac_a4bd03",
+      "title": "When a Missing Landing Becomes Invisible Contact",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFO Prophecy Failure Response Cycle",
+        "Physical vs. Invisible Contact Claims",
+        "Mechanisms of Group Testimony Validation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4_leaving_failed_ufo_b_1dd202",
+      "title": "Why Some Believers Leave After a Failed Prophecy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Psychological Collapse of UFO Prophecy",
+        "Patterns of Departure from UFO Groups",
+        "Interpretations of the Seekers Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4_partial_ufo_confirma_624781",
+      "title": "How Ordinary Lights Become Proof After Failure",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cognitive Process of Prophetic Reinterpretation",
+        "Interpretations of Failed UFO Prophecies",
+        "Commonly Reinterpreted Atmospheric Phenomena"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4_public_ufo_commitmen_8891dc",
+      "title": "Why Public UFO Warnings Are So Hard to Retract",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Escalation of Failed UFO Predictions",
+        "Retraction vs. Reinterpretation Outcomes",
+        "Factors Inhibiting Public Retraction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4_ufo_group_reassuranc_766d4a",
+      "title": "How the Group Makes Failure Feel Believable",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Social Dynamics of Prophetic Failure",
+        "Interpretations of Failed UFO Prophecies",
+        "Mechanisms of Emotional Unity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4_ufo_prophecy_moving_3a4112",
+      "title": "Why UFO Prophecy Dates Keep Moving",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Prophetic Date Shifting",
+        "Blame Allocation in Failed UFO Prophecies",
+        "UFO Movement Response Variations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3",
+      "title": "When Does a UFO Claim Truly Fail?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Falsifiability Verification Workflow",
+        "Testable vs. Vague UFO Claims",
+        "Common Prediction Distortions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3_independent_ufo_veri_9136ff",
+      "title": "Who Should Verify a Predicted UFO Appearance?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA UAP Data Verification Workflow",
+        "Claimant Controlled vs Independent Evidence",
+        "Independent Verification Source Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3_ufo_prediction_deadl_b21873",
+      "title": "Why 'Soon' Makes UFO Predictions Impossible to Test",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Falsification Requirements for UFO Predictions",
+        "Testable vs. Untestable UFO Claims",
+        "Mechanisms of Prediction Accountability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3_ufo_prediction_goalp_a3907d",
+      "title": "When Does Revising a UFO Prediction Become Evasion?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "list_vertical",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Correction vs Rescue Revisions",
+        "Types of Prediction Drift",
+        "Path to Unfalsifiability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3_ufo_prediction_prere_d3ba0c",
+      "title": "Can a UFO Prediction Be Proved in Advance?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UFO Prediction Preregistration Workflow",
+        "Hindsight Editing vs Preregistration",
+        "Required Preregistration Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3_ufo_sighting_resolut_10ce5c",
+      "title": "What Should Count as a Predicted UFO Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Operational Definition Workflow for UAP",
+        "UAP Identification Standards Comparison",
+        "Common Prediction Loopholes in UFO Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3_ufo_web_archive_reli_4d2267",
+      "title": "Can an Archived UFO Prediction Be Trusted?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Verifying UFO Prediction Falsifiability",
+        "Archive Capture Limitations vs. Strengths",
+        "Corroborating UFO Prediction Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb",
+      "title": "How Publicity Raises the Cost of a Failed Landing",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Key Stages in Dorothy Martin's Prophecy",
+        "Interpretations of Failed UFO Landings",
+        "Digital Publicity Dynamics for Goodchild"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb_goodchild_global_ufo_653829",
+      "title": "How One UFO Date Became a Global Watch",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Time line of the 2008 UFO Prediction",
+        "Traditional vs. Digital UFO Prophecies",
+        "Digital Mechanisms of the 2008 Forecast"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb_martin_media_intrusi_e2d281",
+      "title": "When the Press Became Part of the Prophecy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Dorothy Martin's 1954 UFO Prediction Time line",
+        "Interpretations of the Failed Prophecy",
+        "External Factors Influencing the Prophecy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb_oak_park_ufo_crowd_8e9f3b",
+      "title": "How a UFO Vigil Became a Neighborhood Crisis",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1954 Oak Park Vigil Time line",
+        "Believer Experience vs. Spectator View",
+        "Factors Driving the Oak Park Crowd"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb_skeptical_coverage_s_f3a40d",
+      "title": "Can Mocking Coverage Make a Prophecy Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Journalistic Amplification of UFO Prophecies",
+        "Believer Interpretations of Sceptical Coverage",
+        "Journalistic Drivers for UFO Reporting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb_ufo_deadlines_news_c_0d4d69",
+      "title": "Why UFO Deadlines Are Perfect News Stories",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Journalistic Coverage of UFO Predictions",
+        "Dated vs. Vague UFO Claims",
+        "Journalistic Incentives for UFO Prophecies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb_unarius_publicity_pe_d53eef",
+      "title": "When UFO Publicity Became the Main Event",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Unarius Academy Public Publicity Strategy",
+        "Unarius vs. Traditional Prophetic Movements",
+        "Unarius Academy Media Retention Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e",
+      "title": "What People Give Up for a UFO Deadline",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Stages of Material Sacrifice",
+        "Interpretations of the 1954 UFO Case",
+        "Types of Organizational Expenditure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_after_failed_ufo_dea_e1ad26",
+      "title": "What Remains After the UFO Deadline Passes?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rebuilding Life After Failed UFO Prophecy",
+        "Interpretations of the 1954 Dorothy Martin Case",
+        "Persistent Losses from Missed UFO Deadlines"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_laughead_ufo_job_los_4aa044",
+      "title": "Did UFO Proselytising Cost Laughead His Career?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Laughead's Pre Prophecy Advocacy Activities",
+        "Mechanisms of Employment Loss",
+        "Revised Historical Findings on Laughead"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_ufo_deadline_family_2036db",
+      "title": "How UFO Deadlines Split Families Before Nothing Happened",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Social Dynamics of UFO Deadlines",
+        "Dorothy Martin Case Interpretations",
+        "Family Impact of UFO Prophecies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_ufo_deadline_urgent_cf6ac7",
+      "title": "Why a UFO Date Can Override Ordinary Caution",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Psychological Feedback Loop of Prophecy",
+        "Irreversible Actions in UFO Prophecy",
+        "Conditions for Deadline Pressure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_ufo_group_competitiv_0b7594",
+      "title": "When Sacrifice Becomes a Contest of UFO Faith",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Competitive Sacrifice",
+        "Interpretations of Cautious Behavior",
+        "UFO Movement Commitment Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_ufo_rescue_possessio_5baecf",
+      "title": "Why Believers Gave Everything Away Before Rescue",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Psychological Shift in Property Value",
+        "Evidence Quality in UFO Prophecy",
+        "Functions of Material Sacrifice"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516",
+      "title": "Which UFO Promises Are Easiest to Test?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "UFO Prediction Testability Hierarchy",
+        "Rescue Prophecy Interpretations",
+        "Ruth Norman Landing Failures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_predicted_ufo_landin_52b828",
+      "title": "What Would Prove a Predicted UFO Landing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Verifying Scheduled UFO Landing Claims",
+        "Landing Claims vs. Spontaneous Reports",
+        "Minimum Evidence for Public Landings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_rescue_prophecy_prev_dc15c8",
+      "title": "Why No Disaster Can Still Count as Success",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Logic of Rescue Prophecy Failure",
+        "Testing Rescue Prophecy Claims",
+        "Requirements for Fair Rescue Tests"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_ufo_disclosure_falsi_47ca7a",
+      "title": "When Does UFO Disclosure Actually Count?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Drift of Disclosure Predictions",
+        "AARO and NASA UAP Findings",
+        "Categories of Non Confirmation Actions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_ufo_prediction_deadl_b21873",
+      "title": "Why Fixed Dates Make UFO Claims Riskier",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Verifying Failed UFO Predictions",
+        "Testable vs. Vague UFO Claims",
+        "Post Hoc Prediction Revisions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_unresolved_reports_p_77ae33",
+      "title": "Unresolved Does Not Mean Predicted or Extraterrestrial",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AARO Unresolved Case Criteria",
+        "Prediction vs. Unresolved Report",
+        "Evidence for Prediction Success"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_worldwide_ufo_eviden_28a973",
+      "title": "What Evidence Would a Worldwide UFO Sighting Leave?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Validating Worldwide UFO Predictions",
+        "Global Event vs. Isolated Sightings",
+        "Independent Evidence Sources for UAP"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e",
+      "title": "What a UFO Prophecy Timeline Reveals",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Unarius Movement Landing Time line",
+        "Hale Bopp Companion Interpretations",
+        "Mechanisms of Prophetic Survival"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_announcement_vs_dead_ad309f",
+      "title": "Why Every UFO Promise Needs Two Dates",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFO Prediction Lifecycle Key Stages",
+        "Impact of Date Compression Errors",
+        "Historical Developments During Waiting Periods"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_moving_ufo_deadlines_a30fd9",
+      "title": "How Does a Failed UFO Date Keep Moving?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Moving UFO Prophecies",
+        "Interpretations of Failed UFO Dates",
+        "Unarius Movement Prophetic Shifts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_neutral_ufo_outcome_c73e7d",
+      "title": "How Should a Failed UFO Event Be Recorded?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Standard UFO Prediction Recording Framework",
+        "Weak vs. Strong Historical Language",
+        "Dorothy Martin 1954 Case Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_original_ufo_promise_44c907",
+      "title": "What Did the UFO Claimant Originally Promise?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Verifying Pre Deadline UFO Claims",
+        "Pre Deadline vs Post Deadline Records",
+        "Verified Pre Deadline Evidence Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_outcome_vs_historica_7a15a9",
+      "title": "Did the Prediction Fail Even if History Is Disputed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Analyzing Failed UFO Predictions",
+        "Two Layers of Historical Records",
+        "Types of Historical Disputes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_ufo_observable_test_9d92ab",
+      "title": "What Would Count as a UFO Prediction Success?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evaluating UFO Prediction Success",
+        "Testable Claims vs. Symbolic Language",
+        "Evidence Hierarchy for UFO Predictions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+      "title": "Why Sacrifice Can Deepen UFO Belief",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Post Failure Reinterpretation",
+        "Dynamics of Believer Retention vs. Departure",
+        "Four Dimensions of Sunk Cost Investment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_identity_costs_of_le_3bbd10",
+      "title": "What Believers Risk by Admitting They Were Wrong",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Patterns of Quiet Disengagement",
+        "Costs of Abandoning Chosen Witness Identities",
+        "Outcomes of Failed UFO Prophecies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_martin_failed_rescue_89504e",
+      "title": "Why the Missing Spaceship Strengthened Belief",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Dorothy Martin's 1954 Prophecy Time line",
+        "Interpretations of the Martin Case",
+        "Sacrifices Made by Martin's Followers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_public_commitment_an_b17443",
+      "title": "Why Going Public Can Lock Belief In",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Escalation of Commitment Process",
+        "Public vs Private Belief Retraction",
+        "Material Investments in UFO Beliefs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_sacrifice_reframed_a_85105a",
+      "title": "Can Failure Be Reframed as Success?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Logic of Averted Disaster Claims",
+        "Testing UFO Prediction Validity",
+        "Psychology of Failed UFO Prophecies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_ufo_prophecy_spiritu_9fe3ec",
+      "title": "When a Missing Landing Becomes Spiritual Contact",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Stages of UFO Prediction Spiritualization",
+        "Observable vs. Spiritual Contact Claims",
+        "UFO Group Responses to Failed Predictions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_unarius_landing_dela_6eabca",
+      "title": "How Unarius Survived Its Missing Fleet",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Unarius Academy Prophecy Time line",
+        "Interpretations of Failed Contact",
+        "Persistent Unarius Core Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+      "title": "Why 'Alien Contact Is Soon' Proves Nothing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Retrospective Matching",
+        "Testable vs. Indefinite UFO Forecasts",
+        "Categories of Extraterrestrial Contact"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_hidden_evidence_ufo_fe69b4",
+      "title": "Can Missing UFO Evidence Ever Count Against the Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Secrecy Absorption",
+        "Testable vs. Unfalsifiable Secrecy",
+        "Common UFO Secrecy Narratives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_humanity_ready_conta_9169db",
+      "title": "Who Decides When Humanity Is Ready for Contact?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The UFO Readiness Escape Loop",
+        "Scientific vs. Readiness Criteria",
+        "Barriers to Measuring Readiness"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_ufo_hindsight_retros_b34df3",
+      "title": "Why Vague UFO Forecasts Look Better Afterwards",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanisms of Hindsight Bias",
+        "Genuine Forecasting vs Retrospective Matching",
+        "Vulnerabilities of UFO Forecasts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_ufo_soon_elastic_dea_195305",
+      "title": "How Long Can 'Soon' Keep a UFO Prediction Alive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Lifecycle of Elastic Predictions",
+        "UFO Prediction Timing Models",
+        "Linguistic Features of 'Soon'"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_unresolved_ufo_repor_e7c99a",
+      "title": "Why 'Unresolved' Does Not Mean 'Alien'",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO UAP Identification Lifecycle",
+        "Interpreting Unresolved UAP Reports",
+        "Limitations in UAP Data Collection"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_what_counts_as_alien_ad9c12",
+      "title": "What Actually Counts as Alien Contact?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "SETI Scientific Detection Workflow",
+        "Interpretations of Alien Contact",
+        "Categories of Contact Creep"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+      "title": "Did Researchers Distort the Classic UFO Prophecy Case?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Time line of the 1954 UFO Prophecy",
+        "Competing Interpretations of the Study",
+        "Researcher Interventions in the Study"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1_child_welfare_interv_6d03f6",
+      "title": "How Far Did the Researchers Enter Family Life?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Researcher Involvement in Dorothy Martin's Circle",
+        "Reactivity vs. Active Intervention Claims",
+        "Ethical Risks of Covert Field Research"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1_festinger_archive_re_958427",
+      "title": "What Festinger's Private Papers Add to the Case",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Festinger Archive Research Workflow",
+        "Published vs. Archival Claims",
+        "Components of the Festinger Archive"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1_martin_literal_claim_c95afb",
+      "title": "Did Dorothy Martin Abandon the Failed Prediction?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Dorothy Martin's 1954 Prophecy Time line",
+        "Belief Survival vs Prophecy Survival",
+        "Evidence of Martin's Post Prophecy Actions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1_post_failure_group_d_bfd50f",
+      "title": "What Happened to the Group After December 1954?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Dorothy Martin UFO Rescue Key Stages",
+        "Interpretations of Post Failure Behavior",
+        "Factors of Group Dispersal"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1_riecken_laughead_pro_2538a4",
+      "title": "Did a Researcher Trigger the Night's Key Speech?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Laughead Speech Key Stages",
+        "Interpretations of Laughead's Speech",
+        "Riecken's Embedded Roles"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1_staged_psychic_messa_9c67a7",
+      "title": "When Observers Became Sources of Prophecy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Collective Belief Reinforcement",
+        "Interpretations of the Archive Records",
+        "Researcher Participation in the Study"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

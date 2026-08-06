@@ -1,0 +1,1222 @@
+{
+  "version": 1,
+  "page_count": 41,
+  "total_page_seconds": 125.7027,
+  "average_page_seconds": 3.0659,
+  "phase_totals_seconds": {
+    "internal_links": 69.4845,
+    "content_assembly": 24.4744,
+    "media_svg": 12.3806,
+    "monetization": 11.1612,
+    "youtube": 4.5771,
+    "quality_write": 1.81,
+    "content_cleanup_final": 0.9197,
+    "preparation": 0.8746,
+    "content_cleanup_initial": 0.0198
+  },
+  "slowest_pages": [
+    {
+      "base_name": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.5923,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8381,
+        "content_cleanup_final": 0.0364,
+        "media_svg": 0.8196,
+        "youtube": 1.3413,
+        "content_assembly": 0.6997,
+        "monetization": 1.77,
+        "quality_write": 0.0595
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4101,
+      "phases": {
+        "preparation": 0.0239,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6686,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.2404,
+        "youtube": 1.3558,
+        "content_assembly": 0.6271,
+        "monetization": 2.4188,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6224,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8066,
+        "content_cleanup_final": 0.038,
+        "media_svg": 0.133,
+        "youtube": 1.4106,
+        "content_assembly": 0.7633,
+        "monetization": 1.3868,
+        "quality_write": 0.056
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb_skeptical_coverage_s_f3a40d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8344,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.695,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.3177,
+        "youtube": 0.0164,
+        "content_assembly": 0.5921,
+        "monetization": 1.1324,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_circular_evidence_pr_2d2fbd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7191,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6941,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.3084,
+        "youtube": 0.0135,
+        "content_assembly": 0.5735,
+        "monetization": 1.0532,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1878,
+      "phases": {
+        "preparation": 0.0838,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7697,
+        "content_cleanup_final": 0.0506,
+        "media_svg": 0.3972,
+        "youtube": 0.0119,
+        "content_assembly": 0.715,
+        "monetization": 0.1023,
+        "quality_write": 0.0565
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0003,
+      "phases": {
+        "preparation": 0.0379,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8585,
+        "content_cleanup_final": 0.0484,
+        "media_svg": 0.1312,
+        "youtube": 0.0131,
+        "content_assembly": 0.7424,
+        "monetization": 0.1067,
+        "quality_write": 0.0614
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9136,
+      "phases": {
+        "preparation": 0.0332,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8101,
+        "content_cleanup_final": 0.0363,
+        "media_svg": 0.1276,
+        "youtube": 0.0293,
+        "content_assembly": 0.7142,
+        "monetization": 0.1048,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_ufo_disclosure_falsi_47ca7a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.852,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7442,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3334,
+        "youtube": 0.0114,
+        "content_assembly": 0.5784,
+        "monetization": 0.1044,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_norman_wager_stake_d_e21532",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8184,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7367,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.3271,
+        "youtube": 0.0115,
+        "content_assembly": 0.5793,
+        "monetization": 0.081,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3_ufo_sighting_resolut_10ce5c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8134,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7506,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.3195,
+        "youtube": 0.0117,
+        "content_assembly": 0.5664,
+        "monetization": 0.087,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8053,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7935,
+        "content_cleanup_final": 0.0332,
+        "media_svg": 0.0927,
+        "youtube": 0.014,
+        "content_assembly": 0.7058,
+        "monetization": 0.0837,
+        "quality_write": 0.0549
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_ufo_hindsight_retros_b34df3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7817,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.726,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3084,
+        "youtube": 0.0103,
+        "content_assembly": 0.5704,
+        "monetization": 0.0834,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926_ufo_false_precision_82adb3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7783,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7091,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3179,
+        "youtube": 0.0102,
+        "content_assembly": 0.5734,
+        "monetization": 0.0859,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7724,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7362,
+        "content_cleanup_final": 0.0349,
+        "media_svg": 0.0929,
+        "youtube": 0.0138,
+        "content_assembly": 0.7082,
+        "monetization": 0.1025,
+        "quality_write": 0.0564
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_ladbrokes_role_not_e_302b20",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7687,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6588,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.354,
+        "youtube": 0.0111,
+        "content_assembly": 0.5812,
+        "monetization": 0.0831,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_unresolved_ufo_repor_e7c99a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7607,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.644,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.3098,
+        "youtube": 0.0104,
+        "content_assembly": 0.6165,
+        "monetization": 0.1041,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_outcome_vs_historica_7a15a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7599,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7523,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.3069,
+        "youtube": 0.0129,
+        "content_assembly": 0.5484,
+        "monetization": 0.0675,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef_escalating_sacrifice_f2c8c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7564,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6766,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.3046,
+        "youtube": 0.0095,
+        "content_assembly": 0.5817,
+        "monetization": 0.1019,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_citation_loops_fc567e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7554,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6722,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.3051,
+        "youtube": 0.0092,
+        "content_assembly": 0.5807,
+        "monetization": 0.1034,
+        "quality_write": 0.0438
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "failed_predictions_r_c5c2a1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4101,
+      "phases": {
+        "preparation": 0.0239,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6686,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.2404,
+        "youtube": 1.3558,
+        "content_assembly": 0.6271,
+        "monetization": 2.4188,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6224,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8066,
+        "content_cleanup_final": 0.038,
+        "media_svg": 0.133,
+        "youtube": 1.4106,
+        "content_assembly": 0.7633,
+        "monetization": 1.3868,
+        "quality_write": 0.056
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9136,
+      "phases": {
+        "preparation": 0.0332,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8101,
+        "content_cleanup_final": 0.0363,
+        "media_svg": 0.1276,
+        "youtube": 0.0293,
+        "content_assembly": 0.7142,
+        "monetization": 0.1048,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0003,
+      "phases": {
+        "preparation": 0.0379,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8585,
+        "content_cleanup_final": 0.0484,
+        "media_svg": 0.1312,
+        "youtube": 0.0131,
+        "content_assembly": 0.7424,
+        "monetization": 0.1067,
+        "quality_write": 0.0614
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.5923,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8381,
+        "content_cleanup_final": 0.0364,
+        "media_svg": 0.8196,
+        "youtube": 1.3413,
+        "content_assembly": 0.6997,
+        "monetization": 1.77,
+        "quality_write": 0.0595
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8053,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7935,
+        "content_cleanup_final": 0.0332,
+        "media_svg": 0.0927,
+        "youtube": 0.014,
+        "content_assembly": 0.7058,
+        "monetization": 0.0837,
+        "quality_write": 0.0549
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7724,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7362,
+        "content_cleanup_final": 0.0349,
+        "media_svg": 0.0929,
+        "youtube": 0.0138,
+        "content_assembly": 0.7082,
+        "monetization": 0.1025,
+        "quality_write": 0.0564
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1878,
+      "phases": {
+        "preparation": 0.0838,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7697,
+        "content_cleanup_final": 0.0506,
+        "media_svg": 0.3972,
+        "youtube": 0.0119,
+        "content_assembly": 0.715,
+        "monetization": 0.1023,
+        "quality_write": 0.0565
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_ufo_prophecy_spiritu_9fe3ec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.678,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6466,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.3135,
+        "youtube": 0.014,
+        "content_assembly": 0.5581,
+        "monetization": 0.0658,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_readiness_burden_of_e4ff61",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7174,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.662,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.3096,
+        "youtube": 0.0107,
+        "content_assembly": 0.5588,
+        "monetization": 0.1025,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_protective_delay_exc_03ca4b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6701,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6174,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.309,
+        "youtube": 0.0181,
+        "content_assembly": 0.5513,
+        "monetization": 0.1013,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_citation_loops_fc567e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7554,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6722,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.3051,
+        "youtube": 0.0092,
+        "content_assembly": 0.5807,
+        "monetization": 0.1034,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_telescope_test_limit_eccd55",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7441,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6597,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.3231,
+        "youtube": 0.0106,
+        "content_assembly": 0.5697,
+        "monetization": 0.106,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926_ufo_false_precision_82adb3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7783,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7091,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3179,
+        "youtube": 0.0102,
+        "content_assembly": 0.5734,
+        "monetization": 0.0859,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_ufo_hindsight_retros_b34df3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7817,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.726,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3084,
+        "youtube": 0.0103,
+        "content_assembly": 0.5704,
+        "monetization": 0.0834,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_unresolved_ufo_repor_e7c99a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7607,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.644,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.3098,
+        "youtube": 0.0104,
+        "content_assembly": 0.6165,
+        "monetization": 0.1041,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_ladbrokes_role_not_e_302b20",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7687,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6588,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.354,
+        "youtube": 0.0111,
+        "content_assembly": 0.5812,
+        "monetization": 0.0831,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_norman_wager_stake_d_e21532",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8184,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7367,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.3271,
+        "youtube": 0.0115,
+        "content_assembly": 0.5793,
+        "monetization": 0.081,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_counterfactual_disas_fd6dd9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7184,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6621,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.3098,
+        "youtube": 0.0143,
+        "content_assembly": 0.5601,
+        "monetization": 0.0976,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_circular_evidence_pr_2d2fbd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7191,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6941,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.3084,
+        "youtube": 0.0135,
+        "content_assembly": 0.5735,
+        "monetization": 1.0532,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_later_failed_prophec_c7f8aa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7003,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6474,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.3079,
+        "youtube": 0.0132,
+        "content_assembly": 0.5587,
+        "monetization": 0.0977,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_sincere_channels_fal_b24d0c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.719,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6477,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.3113,
+        "youtube": 0.0145,
+        "content_assembly": 0.5671,
+        "monetization": 0.0977,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_clarion_group_confir_230b04",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6795,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6254,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.3069,
+        "youtube": 0.0138,
+        "content_assembly": 0.5608,
+        "monetization": 0.0978,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_missing_star_chart_d_41f338",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6599,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6285,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.3076,
+        "youtube": 0.0089,
+        "content_assembly": 0.5601,
+        "monetization": 0.0812,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_aborted_plan_unfalsi_ed2a4d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7352,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6617,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.3058,
+        "youtube": 0.0101,
+        "content_assembly": 0.5741,
+        "monetization": 0.1026,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_alabama_location_con_623e86",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6847,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6348,
+        "content_cleanup_final": 0.0152,
+        "media_svg": 0.3118,
+        "youtube": 0.0091,
+        "content_assembly": 0.5553,
+        "monetization": 0.1002,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_three_day_observatio_342d4a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6653,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6244,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.3036,
+        "youtube": 0.0099,
+        "content_assembly": 0.5522,
+        "monetization": 0.1016,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_blue_book_unidentifi_5a99e6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.727,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6416,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.308,
+        "youtube": 0.0109,
+        "content_assembly": 0.5771,
+        "monetization": 0.1077,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_uap_2024_report_numb_b27307",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7445,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6676,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 0.3163,
+        "youtube": 0.0106,
+        "content_assembly": 0.5716,
+        "monetization": 0.1005,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_engagement_not_e_2a287b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.753,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6697,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.3098,
+        "youtube": 0.0119,
+        "content_assembly": 0.5739,
+        "monetization": 0.1092,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_unidentified_not_ext_a1ea32",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7323,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6764,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.3097,
+        "youtube": 0.0101,
+        "content_assembly": 0.5754,
+        "monetization": 0.0804,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_researcher_influence_41da81_selective_access_qui_9337a6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7221,
+      "phases": {
+        "preparation": 0.0212,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6595,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.3068,
+        "youtube": 0.0131,
+        "content_assembly": 0.5692,
+        "monetization": 0.0999,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be_private_experience_p_9df6ef",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6969,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6526,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.3111,
+        "youtube": 0.0137,
+        "content_assembly": 0.5684,
+        "monetization": 0.0798,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef_escalating_sacrifice_f2c8c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7564,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6766,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.3046,
+        "youtube": 0.0095,
+        "content_assembly": 0.5817,
+        "monetization": 0.1019,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4_partial_ufo_confirma_624781",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7511,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6781,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3234,
+        "youtube": 0.0093,
+        "content_assembly": 0.5702,
+        "monetization": 0.0824,
+        "quality_write": 0.0481
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3_ufo_prediction_deadl_b21873",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7521,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6918,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.3163,
+        "youtube": 0.0105,
+        "content_assembly": 0.5675,
+        "monetization": 0.0875,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3_ufo_sighting_resolut_10ce5c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8134,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7506,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.3195,
+        "youtube": 0.0117,
+        "content_assembly": 0.5664,
+        "monetization": 0.087,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_ufo_disclosure_falsi_47ca7a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.852,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7442,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3334,
+        "youtube": 0.0114,
+        "content_assembly": 0.5784,
+        "monetization": 0.1044,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb_skeptical_coverage_s_f3a40d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8344,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.695,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.3177,
+        "youtube": 0.0164,
+        "content_assembly": 0.5921,
+        "monetization": 1.1324,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_unresolved_reports_p_77ae33",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7492,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6886,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.3119,
+        "youtube": 0.0119,
+        "content_assembly": 0.5571,
+        "monetization": 0.0989,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_outcome_vs_historica_7a15a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7599,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7523,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.3069,
+        "youtube": 0.0129,
+        "content_assembly": 0.5484,
+        "monetization": 0.0675,
+        "quality_write": 0.0373
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 41,
+    "reused_pages": 170,
+    "rebuilt_pages": 41,
+    "error_pages": 0,
+    "page_work_wall_seconds": 69.6252,
+    "rebuilt_pages_per_minute": 35.332,
+    "queued_rebuild_pages_per_minute": 35.332,
+    "apparent_page_work_speedup": 1.8054,
+    "youtube_cache_prepare": {
+      "entries": 47776,
+      "updated": true,
+      "elapsed_seconds": 2.9438
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 41,
+      "successful_pages": 41,
+      "failed_pages": 0,
+      "worker_summary": {
+        "25272": {
+          "pages": 15,
+          "successes": 15,
+          "failures": 0,
+          "total_worker_seconds": 45.625,
+          "max_worker_seconds": 6.4554,
+          "last_base_name": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_outcome_vs_historica_7a15a9"
+        },
+        "19132": {
+          "pages": 14,
+          "successes": 14,
+          "failures": 0,
+          "total_worker_seconds": 42.5764,
+          "max_worker_seconds": 5.6635,
+          "last_base_name": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_unresolved_reports_p_77ae33"
+        },
+        "8028": {
+          "pages": 12,
+          "successes": 12,
+          "failures": 0,
+          "total_worker_seconds": 39.2331,
+          "max_worker_seconds": 6.6377,
+          "last_base_name": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb_skeptical_coverage_s_f3a40d"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+          "level": 2,
+          "success": true,
+          "worker_pid": 8028,
+          "worker_duration_seconds": 6.6377,
+          "total_seconds": 6.5923,
+          "worker_started_at_utc": "2026-08-06T08:51:32.047029Z",
+          "worker_finished_at_utc": "2026-08-06T08:51:38.639366Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "failed_predictions_r_c5c2a1",
+          "level": 1,
+          "success": true,
+          "worker_pid": 25272,
+          "worker_duration_seconds": 6.4554,
+          "total_seconds": 6.4101,
+          "worker_started_at_utc": "2026-08-06T08:51:27.619937Z",
+          "worker_finished_at_utc": "2026-08-06T08:51:34.030067Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+          "level": 2,
+          "success": true,
+          "worker_pid": 19132,
+          "worker_duration_seconds": 5.6635,
+          "total_seconds": 5.6224,
+          "worker_started_at_utc": "2026-08-06T08:51:29.825656Z",
+          "worker_finished_at_utc": "2026-08-06T08:51:35.448125Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb_skeptical_coverage_s_f3a40d",
+          "level": 3,
+          "success": true,
+          "worker_pid": 8028,
+          "worker_duration_seconds": 3.8767,
+          "total_seconds": 3.8344,
+          "worker_started_at_utc": "2026-08-06T08:52:07.420050Z",
+          "worker_finished_at_utc": "2026-08-06T08:52:11.254541Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_circular_evidence_pr_2d2fbd",
+          "level": 3,
+          "success": true,
+          "worker_pid": 8028,
+          "worker_duration_seconds": 3.7613,
+          "total_seconds": 3.7191,
+          "worker_started_at_utc": "2026-08-06T08:51:49.854962Z",
+          "worker_finished_at_utc": "2026-08-06T08:51:53.574052Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef",
+          "level": 2,
+          "success": true,
+          "worker_pid": 19132,
+          "worker_duration_seconds": 3.2312,
+          "total_seconds": 3.1878,
+          "worker_started_at_utc": "2026-08-06T08:51:38.537658Z",
+          "worker_finished_at_utc": "2026-08-06T08:51:41.725454Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+          "level": 2,
+          "success": true,
+          "worker_pid": 19132,
+          "worker_duration_seconds": 3.0458,
+          "total_seconds": 3.0003,
+          "worker_started_at_utc": "2026-08-06T08:51:35.490498Z",
+          "worker_finished_at_utc": "2026-08-06T08:51:38.490841Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+          "level": 2,
+          "success": true,
+          "worker_pid": 25272,
+          "worker_duration_seconds": 2.9565,
+          "total_seconds": 2.9136,
+          "worker_started_at_utc": "2026-08-06T08:51:34.076838Z",
+          "worker_finished_at_utc": "2026-08-06T08:51:36.990436Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_ufo_disclosure_falsi_47ca7a",
+          "level": 3,
+          "success": true,
+          "worker_pid": 25272,
+          "worker_duration_seconds": 2.892,
+          "total_seconds": 2.852,
+          "worker_started_at_utc": "2026-08-06T08:52:07.573050Z",
+          "worker_finished_at_utc": "2026-08-06T08:52:10.425096Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_norman_wager_stake_d_e21532",
+          "level": 3,
+          "success": true,
+          "worker_pid": 25272,
+          "worker_duration_seconds": 2.8603,
+          "total_seconds": 2.8184,
+          "worker_started_at_utc": "2026-08-06T08:51:48.229342Z",
+          "worker_finished_at_utc": "2026-08-06T08:51:51.047827Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

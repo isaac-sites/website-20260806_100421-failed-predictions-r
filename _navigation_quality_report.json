@@ -1,0 +1,2537 @@
+{
+  "generated_at_utc": "2026-08-06T08:52:55.561112Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 877,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 202,
+    "visible_pages_without_inline_outbound_links": 9,
+    "average_inline_inbound_links_per_visible_page": 4.16,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 211,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_altered_mauna_kea_im_3753da",
+        "title": "Altered Image",
+        "permalink": "/altered-image/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_hale_bopp_saturn_sha_590aa9",
+        "title": "Saturn Shape",
+        "permalink": "/saturn-shape/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_real_comet_companion_f83066",
+        "title": "Movement Test",
+        "permalink": "/movement-test/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_hidden_craft_nondete_8ac4ee",
+        "title": "Hidden Craft",
+        "permalink": "/hidden-craft/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_telescope_shop_accou_f82050",
+        "title": "Shop Account",
+        "permalink": "/shop-account/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_media_amplified_spac_99036f",
+        "title": "Media Amplification",
+        "permalink": "/media-amplification/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be_absence_becomes_ufo_738e0b",
+        "title": "Absence as Proof",
+        "permalink": "/absence-as-proof/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef_body_vehicle_languag_ae3eab",
+        "title": "Body Language",
+        "permalink": "/body-language/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3_ufo_sighting_resolut_10ce5c",
+        "title": "Sighting Rules",
+        "permalink": "/sighting-rules/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "failed_predictions_r_c5c2a1",
+        "title": "When UFO Prophecies Miss Their Deadlines",
+        "permalink": "/failed-predictions-relating-to-ufos/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "title": "Landing Wagers",
+        "permalink": "/landing-wagers/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_ladbrokes_role_not_e_302b20",
+        "title": "Bookmaker Role",
+        "permalink": "/bookmaker-role/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_norman_wager_stake_d_e21532",
+        "title": "Stake Dispute",
+        "permalink": "/stake-dispute/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_sincerity_not_accura_88023e",
+        "title": "Sincerity Test",
+        "permalink": "/sincerity-test/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_ufo_wager_missing_te_218452",
+        "title": "Bet Terms",
+        "permalink": "/bet-terms/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_ufo_wager_publicity_f44313",
+        "title": "Publicity Effect",
+        "permalink": "/publicity-effect/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_wager_vs_ufo_sightin_4744dc",
+        "title": "Testability",
+        "permalink": "/testability/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "title": "Disaster Averted",
+        "permalink": "/disaster-averted/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_circular_evidence_pr_2d2fbd",
+        "title": "Circular Evidence",
+        "permalink": "/circular-evidence/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_counterfactual_disas_fd6dd9",
+        "title": "Counterfactuals",
+        "permalink": "/counterfactuals/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_later_failed_prophec_c7f8aa",
+        "title": "Later Studies",
+        "permalink": "/later-studies/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_proof_disaster_was_a_9c59f3",
+        "title": "Proof of Prevention",
+        "permalink": "/proof-of-prevention/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_real_vs_belief_preve_d166ac",
+        "title": "Real vs Belief",
+        "permalink": "/real-vs-belief/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_unfalsifiable_preven_4f99da",
+        "title": "Unfalsifiable Claims",
+        "permalink": "/unfalsifiable-claims/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "title": "Channelled Claims",
+        "permalink": "/channelled-claims/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_channelled_predictio_791102",
+        "title": "Message Records",
+        "permalink": "/message-records/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_martin_norman_channe_565984",
+        "title": "Martin vs Norman",
+        "permalink": "/martin-vs-norman/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_missed_event_two_lay_3b3ffd",
+        "title": "Two Tests",
+        "permalink": "/two-tests/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_private_ufo_source_v_a903f9",
+        "title": "Private Sources",
+        "permalink": "/private-sources/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_sincere_channels_fal_b24d0c",
+        "title": "Sincerity",
+        "permalink": "/sincerity/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_sole_gateway_ufo_aut_3d4e75",
+        "title": "Sole Gateway",
+        "permalink": "/sole-gateway/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+        "title": "Clarion Messages",
+        "permalink": "/clarion-messages/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_automatic_writing_so_97cc05",
+        "title": "Source Test",
+        "permalink": "/source-test/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_clarion_bethurum_con_28df18",
+        "title": "Earlier Clarion",
+        "permalink": "/earlier-clarion/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_clarion_documents_pr_1fe0c3",
+        "title": "Document Record",
+        "permalink": "/document-record/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_clarion_group_confir_230b04",
+        "title": "Group Confirmation",
+        "permalink": "/group-confirmation/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_clarion_prophecy_pub_e0f950",
+        "title": "Going Public",
+        "permalink": "/going-public/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_martin_changing_mess_5b9cff",
+        "title": "Messengers",
+        "permalink": "/messengers/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+        "title": "Comet UFOs",
+        "permalink": "/comet-ufos/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_altered_mauna_kea_im_3753da",
+        "title": "Altered Image",
+        "permalink": "/altered-image/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_hale_bopp_saturn_sha_590aa9",
+        "title": "Saturn Shape",
+        "permalink": "/saturn-shape/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_hale_bopp_sodium_tai_350c90",
+        "title": "Sodium Tail",
+        "permalink": "/sodium-tail/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_missing_star_chart_d_41f338",
+        "title": "Chart Omission",
+        "permalink": "/chart-omission/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_real_comet_companion_f83066",
+        "title": "Movement Test",
+        "permalink": "/movement-test/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_visible_comet_visual_66193b",
+        "title": "Visual Anchor",
+        "permalink": "/visual-anchor/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "title": "Prediction Records",
+        "permalink": "/prediction-records/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_prove_prediction_pre_eff61d",
+        "title": "Prior Proof",
+        "permalink": "/prior-proof/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_testable_ufo_predict_cfd947",
+        "title": "Exact Wording",
+        "permalink": "/exact-wording/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_ufo_evidence_hashes_b0837c",
+        "title": "File Integrity",
+        "permalink": "/file-integrity/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_ufo_prediction_evide_dd1993",
+        "title": "Evidence Package",
+        "permalink": "/evidence-package/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_ufo_prediction_times_fd26a4",
+        "title": "Date Conflicts",
+        "permalink": "/date-conflicts/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_ufo_screenshot_verif_3105c0",
+        "title": "Screenshot Limits",
+        "permalink": "/screenshot-limits/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "title": "Dorothy Martin",
+        "permalink": "/dorothy-martin/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_costly_commitments_2162e3",
+        "title": "Costly Belief",
+        "permalink": "/costly-belief/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_failure_became_succe_f7ab37",
+        "title": "Saved World Claim",
+        "permalink": "/saved-world-claim/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_final_night_timeline_00849b",
+        "title": "Final Night",
+        "permalink": "/final-night/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_publicity_claim_disp_1ca655",
+        "title": "Publicity Dispute",
+        "permalink": "/publicity-dispute/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_researcher_observer_1e232f",
+        "title": "Observer Effect",
+        "permalink": "/observer-effect/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_when_prophecy_fails_f866f6",
+        "title": "Book Reappraisal",
+        "permalink": "/book-reappraisal/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+        "title": "Goodchild 2008",
+        "permalink": "/goodchild-2008/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_aborted_plan_unfalsi_ed2a4d",
+        "title": "Cancellation Claims",
+        "permalink": "/cancellation-claims/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_alabama_location_con_623e86",
+        "title": "Alabama Puzzle",
+        "permalink": "/alabama-puzzle/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_failure_reframed_as_9f6f51",
+        "title": "Spiritual Reframe",
+        "permalink": "/spiritual-reframe/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_federation_predictio_943ce3",
+        "title": "The Promise",
+        "permalink": "/the-promise/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_online_ufo_countdown_407fd1",
+        "title": "Online Spread",
+        "permalink": "/online-spread/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_three_day_observatio_342d4a",
+        "title": "Three Day Test",
+        "permalink": "/three-day-test/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "title": "Telescope Test",
+        "permalink": "/telescope-test/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_hidden_craft_nondete_8ac4ee",
+        "title": "Hidden Craft",
+        "permalink": "/hidden-craft/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_no_disproof_criteria_aaff4d",
+        "title": "No Disproof",
+        "permalink": "/no-disproof/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_returned_telescope_i_de33e4",
+        "title": "Returned Scope",
+        "permalink": "/returned-scope/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "title": "Revelation",
+        "permalink": "/revelation/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_telescope_shop_accou_f82050",
+        "title": "Shop Account",
+        "permalink": "/shop-account/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_telescope_test_limit_eccd55",
+        "title": "Test Limits",
+        "permalink": "/test-limits/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "title": "Heaven s Gate",
+        "permalink": "/heaven-s-gate/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_after_death_unverifi_1682ea",
+        "title": "No Return Test",
+        "permalink": "/no-return-test/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_to_marker_8a05ab",
+        "title": "Companion to Marker",
+        "permalink": "/companion-to-marker/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_failed_telescope_tes_a40783",
+        "title": "Telescope Test",
+        "permalink": "/telescope-test-513a5d/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_catalyst_n_faa47b",
+        "title": "Catalyst Not Cause",
+        "permalink": "/catalyst-not-cause/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_rumour_deb_b61b95",
+        "title": "The Late 1996 Rumour That A Giant Spacecraft",
+        "permalink": "/the-late-1996-rumour-that-a-giant/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_media_amplified_spac_99036f",
+        "title": "Media Amplification",
+        "permalink": "/media-amplification/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "title": "Not Ready",
+        "permalink": "/not-ready/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_believers_responsibl_312c64",
+        "title": "Believer Burden",
+        "permalink": "/believer-burden/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_ground_crew_landing_f2e1b6",
+        "title": "Ground Crew",
+        "permalink": "/ground-crew/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_protective_delay_exc_03ca4b",
+        "title": "Protective Delay",
+        "permalink": "/protective-delay/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_readiness_burden_of_e4ff61",
+        "title": "Proof Reversal",
+        "permalink": "/proof-reversal/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_readiness_rule_befor_6af725",
+        "title": "Before or After",
+        "permalink": "/before-or-after/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_skepticism_as_unread_1af515",
+        "title": "Blaming Skeptics",
+        "permalink": "/blaming-skeptics/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "title": "Internet Prophecies",
+        "permalink": "/internet-prophecies/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_ground_crew_online_p_ea3ae3",
+        "title": "Ground Crew",
+        "permalink": "/ground-crew-e5c978/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_halebopp_ground_crew_f425be",
+        "title": "Hale Bopp Shift",
+        "permalink": "/hale-bopp-shift/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_landing_to_spiritual_5717e0",
+        "title": "Spiritual Shift",
+        "permalink": "/spiritual-shift/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_online_repetition_fa_2b1bf2",
+        "title": "False Corroboration",
+        "permalink": "/false-corroboration-2ad1c9/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_photon_belt_deadline_dced9f",
+        "title": "Photon Belt",
+        "permalink": "/photon-belt/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_ufo_prophecy_web_arc_d0319e",
+        "title": "Unstable Archives",
+        "permalink": "/unstable-archives/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "title": "Official Findings",
+        "permalink": "/official-findings/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_aaro_unresolved_case_7f814d",
+        "title": "AARO Cases",
+        "permalink": "/aaro-cases/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_blue_book_unidentifi_5a99e6",
+        "title": "Blue Book",
+        "permalink": "/blue-book/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_nasa_uap_data_qualit_c12aeb",
+        "title": "NASA Data",
+        "permalink": "/nasa-data/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_uap_2024_report_numb_b27307",
+        "title": "2024 Report",
+        "permalink": "/2024-report/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_uap_prophecy_fulfilm_d35cd3",
+        "title": "Fulfilment Test",
+        "permalink": "/fulfilment-test/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1_uap_security_not_ali_894908",
+        "title": "Security Mission",
+        "permalink": "/security-mission/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "title": "False Corroboration",
+        "permalink": "/false-corroboration/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_failed_ufo_archive_i_7a0d62",
+        "title": "Archive Illusion",
+        "permalink": "/archive-illusion/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_trace_ufo_prediction_842ecd",
+        "title": "Source Tracing",
+        "permalink": "/source-tracing/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_citation_loops_fc567e",
+        "title": "Citation Loops",
+        "permalink": "/citation-loops/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_debunk_amplifica_71a589",
+        "title": "Debunking Risk",
+        "permalink": "/debunking-risk/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_engagement_not_e_2a287b",
+        "title": "Popularity Claims",
+        "permalink": "/popularity-claims/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_illusory_truth_e_35ccfe",
+        "title": "Illusory Truth",
+        "permalink": "/illusory-truth/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "title": "Postponement",
+        "permalink": "/postponement/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_distant_ufo_date_res_ded527",
+        "title": "Long Resets",
+        "permalink": "/long-resets/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ground_crew_1996_del_da1a17",
+        "title": "Ground Crew",
+        "permalink": "/ground-crew-1f5835/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_human_readiness_ufo_3e09ba",
+        "title": "Human Readiness",
+        "permalink": "/human-readiness/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_rolling_ufo_deadline_4189fa",
+        "title": "Rolling Windows",
+        "permalink": "/rolling-windows/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ufo_interference_exc_4904e9",
+        "title": "Interference",
+        "permalink": "/interference/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ufo_spiritual_proces_2be809",
+        "title": "Spiritual Shift",
+        "permalink": "/spiritual-shift-0e6a0f/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+        "title": "Reports vs Forecasts",
+        "permalink": "/reports-vs-forecasts/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_aaro_active_archive_0368e3",
+        "title": "Active Archive",
+        "permalink": "/active-archive/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_blue_book_unidentifi_5a99e6",
+        "title": "Blue Book",
+        "permalink": "/blue-book-b3c77f/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_later_sightings_fail_fd7c9f",
+        "title": "Later Sightings",
+        "permalink": "/later-sightings/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_nasa_uap_missing_evi_d37999",
+        "title": "NASA Findings",
+        "permalink": "/nasa-findings/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_ufo_cases_insufficie_6343cc",
+        "title": "Data Gaps",
+        "permalink": "/data-gaps/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_unidentified_not_ext_a1ea32",
+        "title": "Not Alien",
+        "permalink": "/not-alien/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81",
+        "title": "Observer Effects",
+        "permalink": "/observer-effects/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_child_welfare_interf_8d117a",
+        "title": "Welfare Inquiry",
+        "permalink": "/welfare-inquiry/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_christmas_eve_media_bb40a2",
+        "title": "Media Pressure",
+        "permalink": "/media-pressure/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_fabricated_psychic_m_030fc0",
+        "title": "Fabricated Messages",
+        "permalink": "/fabricated-messages/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_observer_headcounts_752da1",
+        "title": "Observer Numbers",
+        "permalink": "/observer-numbers/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_riecken_earthly_veri_abfa29",
+        "title": "Earthly Verifier",
+        "permalink": "/earthly-verifier/"
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81_selective_access_qui_9337a6",
+        "title": "Missing Members",
+        "permalink": "/missing-members/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "title": "Dorothy Martin",
+        "permalink": "/dorothy-martin/",
+        "inline_inbound_count": 89
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1",
+        "title": "When UFO Prophecies Miss Their Deadlines",
+        "permalink": "/failed-predictions-relating-to-ufos/",
+        "inline_inbound_count": 82
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "title": "Dissonance",
+        "permalink": "/dissonance/",
+        "inline_inbound_count": 60
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "title": "Revelation",
+        "permalink": "/revelation/",
+        "inline_inbound_count": 41
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "title": "Ruth Norman",
+        "permalink": "/ruth-norman/",
+        "inline_inbound_count": 33
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "title": "Postponement",
+        "permalink": "/postponement/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_announcement_vs_dead_ad309f",
+        "title": "Two Dates",
+        "permalink": "/two-dates/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_automatic_writing_so_97cc05",
+        "title": "Source Test",
+        "permalink": "/source-test/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "title": "Not Ready",
+        "permalink": "/not-ready/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_ufo_rescue_possessio_5baecf",
+        "title": "Possessions",
+        "permalink": "/possessions/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ufo_interference_exc_4904e9",
+        "title": "Interference",
+        "permalink": "/interference/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_martin_failed_rescue_89504e",
+        "title": "Martin Case",
+        "permalink": "/martin-case/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_wager_vs_ufo_sightin_4744dc",
+        "title": "Testability",
+        "permalink": "/testability/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3",
+        "title": "Falsifiability",
+        "permalink": "/falsifiability/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_unresolved_ufo_repor_e7c99a",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_sincere_channels_fal_b24d0c",
+        "title": "Sincerity",
+        "permalink": "/sincerity/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926",
+        "title": "Specificity",
+        "permalink": "/specificity/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_after_failed_ufo_dea_e1ad26",
+        "title": "Rebuilding",
+        "permalink": "/rebuilding/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_unresolved_reports_p_77ae33",
+        "title": "Unresolved Reports",
+        "permalink": "/unresolved-reports/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_federation_predictio_943ce3",
+        "title": "The Promise",
+        "permalink": "/the-promise/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be_private_experience_p_9df6ef",
+        "title": "Private Proof",
+        "permalink": "/private-proof/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_human_readiness_ufo_3e09ba",
+        "title": "Human Readiness",
+        "permalink": "/human-readiness/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_illusory_truth_e_35ccfe",
+        "title": "Illusory Truth",
+        "permalink": "/illusory-truth/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+        "title": "Clarion Messages",
+        "permalink": "/clarion-messages/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_online_repetition_fa_2b1bf2",
+        "title": "False Corroboration",
+        "permalink": "/false-corroboration-2ad1c9/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_aaro_active_archive_0368e3",
+        "title": "Active Archive",
+        "permalink": "/active-archive/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb",
+        "title": "Press Attention",
+        "permalink": "/press-attention/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "title": "Prediction Records",
+        "permalink": "/prediction-records/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_readiness_rule_befor_6af725",
+        "title": "Before or After",
+        "permalink": "/before-or-after/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e",
+        "title": "Personal Costs",
+        "permalink": "/personal-costs/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "title": "Sunk Costs",
+        "permalink": "/sunk-costs/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1_festinger_archive_re_958427",
+        "title": "Archive Records",
+        "permalink": "/archive-records/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_later_failed_prophec_c7f8aa",
+        "title": "Later Studies",
+        "permalink": "/later-studies/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_testable_ufo_predict_cfd947",
+        "title": "Exact Wording",
+        "permalink": "/exact-wording/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_costly_commitments_2162e3",
+        "title": "Costly Belief",
+        "permalink": "/costly-belief/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "title": "Heaven s Gate",
+        "permalink": "/heaven-s-gate/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_photon_belt_deadline_dced9f",
+        "title": "Photon Belt",
+        "permalink": "/photon-belt/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "title": "Official Findings",
+        "permalink": "/official-findings/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_researcher_influence_41da81",
+        "title": "Observer Effects",
+        "permalink": "/observer-effects/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4_invisible_ufo_contac_a4bd03",
+        "title": "Invisible Contact",
+        "permalink": "/invisible-contact/",
+        "inline_inbound_count": 4
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_index",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_researcher_influence_41da81",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "parent"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_researcher_influence_41da81",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_identity_costs_of_le_3bbd10",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_index",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_martin_failed_rescue_89504e",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_public_commitment_an_b17443",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_sacrifice_reframed_a_85105a",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_ufo_prophecy_spiritu_9fe3ec",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_unarius_landing_dela_6eabca",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "parent"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_researcher_influence_41da81",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_believers_responsibl_312c64",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_ground_crew_landing_f2e1b6",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_index",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_protective_delay_exc_03ca4b",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_readiness_burden_of_e4ff61",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_readiness_rule_befor_6af725",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_skepticism_as_unread_1af515",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "parent"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_researcher_influence_41da81",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_hidden_craft_nondete_8ac4ee",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_index",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_no_disproof_criteria_aaff4d",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_returned_telescope_i_de33e4",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_telescope_shop_accou_f82050",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_telescope_test_limit_eccd55",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "parent"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_researcher_influence_41da81",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_hidden_evidence_ufo_fe69b4",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_humanity_ready_conta_9169db",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_index",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_ufo_hindsight_retros_b34df3",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_ufo_soon_elastic_dea_195305",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_unresolved_ufo_repor_e7c99a",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_what_counts_as_alien_ad9c12",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "parent"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ufo_interference_exc_4904e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_wager_vs_ufo_sightin_4744dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_ufo_rescue_possessio_5baecf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_martin_failed_rescue_89504e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b_protective_delay_exc_03ca4b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_announcement_vs_dead_ad309f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_hidden_craft_nondete_8ac4ee",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_ufo_rescue_possessio_5baecf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec",
+        "to": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ufo_interference_exc_4904e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be_private_experience_p_9df6ef",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_wager_vs_ufo_sightin_4744dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_announcement_vs_dead_ad309f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_ufo_rescue_possessio_5baecf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "to": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_sincere_channels_fal_b24d0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_wager_vs_ufo_sightin_4744dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_human_readiness_ufo_3e09ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_sacrifice_reframed_a_85105a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "to": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_automatic_writing_so_97cc05",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_press_cde4fb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_martin_failed_rescue_89504e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "to": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_automatic_writing_so_97cc05",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "to": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_sincere_channels_fal_b24d0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_wager_vs_ufo_sightin_4744dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_announcement_vs_dead_ad309f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+        "to": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_automatic_writing_so_97cc05",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+        "to": "failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e_later_failed_prophec_c7f8aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b",
+        "to": "failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b_visible_comet_visual_66193b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_announcement_vs_dead_ad309f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_human_readiness_ufo_3e09ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ufo_interference_exc_4904e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "to": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123_ufo_prediction_evide_dd1993",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "to": "failed_predictions_r_c5c2a1_spiritual_ufo_reinte_d1c7be_private_experience_p_9df6ef",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "to": "failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16_automatic_writing_so_97cc05",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "to": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_sacri_680a5e_ufo_rescue_possessio_5baecf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_researcher_observer_1e232f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ufo_interference_exc_4904e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+        "to": "failed_predictions_r_c5c2a1_when_prophecy_fails_ec44c1_festinger_archive_re_958427",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_wager_vs_ufo_sightin_4744dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48",
+        "to": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_federation_predictio_943ce3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "to": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_federation_predictio_943ce3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "to": "failed_predictions_r_c5c2a1_alien_landing_wagers_13b42e_wager_vs_ufo_sightin_4744dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_announcement_vs_dead_ad309f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "to": "failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4_sincere_channels_fal_b24d0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "to": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_photon_belt_deadline_dced9f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_announcement_vs_dead_ad309f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "to": "failed_predictions_r_c5c2a1_goodchild_2008_sight_631d48_federation_predictio_943ce3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "to": "failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a",
+        "to": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_online_repetition_fa_2b1bf2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "to": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_aaro_active_archive_0368e3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_official_ufo_finding_6835e1",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516_unresolved_reports_p_77ae33",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "to": "failed_predictions_r_c5c2a1_ufo_prophecy_timelin_10ca6e_announcement_vs_dead_ad309f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "to": "failed_predictions_r_c5c2a1_internet_ufo_prophec_85ec5a_online_repetition_fa_2b1bf2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "to": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_citation_loops_fc567e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "to": "failed_predictions_r_c5c2a1_online_false_corrobo_832321_ufo_illusory_truth_e_35ccfe",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_online_false_corrobo_832321",
+        "to": "failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027_unresolved_ufo_repor_e7c99a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "to": "failed_predictions_r_c5c2a1_humanity_not_ready_435b8b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "to": "failed_predictions_r_c5c2a1_specific_ufo_predict_eee926",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_ufo_interference_exc_4904e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "to": "failed_predictions_r_c5c2a1_ufo_prediction_falsi_c943b3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "to": "failed_predictions_r_c5c2a1_ruth_norman_landings_03a669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "to": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae_human_readiness_ufo_3e09ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_postponed_ufo_deadli_e948ae",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+        "to": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_aaro_active_archive_0368e3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+        "to": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_later_sightings_fail_fd7c9f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+        "to": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f_unidentified_not_ext_a1ea32",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_reports_not_predicti_fef60f",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_telescope_31d1ec_revelation_over_astr_9ec763",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_researcher_influence_41da81",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_researcher_influence_41da81",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_proph_c9a185_researcher_observer_1e232f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_researcher_influence_41da81",
+        "to": "failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_martin_failed_rescue_89504e",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}
