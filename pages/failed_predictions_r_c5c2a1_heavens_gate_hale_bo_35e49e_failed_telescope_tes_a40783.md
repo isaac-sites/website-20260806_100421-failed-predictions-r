@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 00:34:08'
+last_modified_at: '2026-08-06 00:34:08'
 parent_title: When an Unseen UFO Promise Became Lethal | failed predictions relating to UFOs
 parent_permalink: /heaven-s-gate/
 parent_nav_short_title: Heaven s Gate

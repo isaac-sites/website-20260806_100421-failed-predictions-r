@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-belief/
 description: Focused pages that expand on Disaster Averted.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_belief_prevented_dis_462a3e
 parent_title: Disaster Averted | failed predictions relating to UFOs

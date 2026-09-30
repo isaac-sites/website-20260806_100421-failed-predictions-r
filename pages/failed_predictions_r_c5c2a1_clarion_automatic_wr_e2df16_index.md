@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-clarion/
 description: Focused pages that expand on Clarion Messages.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_clarion_automatic_wr_e2df16
 parent_title: Clarion Messages | failed predictions relating to UFOs

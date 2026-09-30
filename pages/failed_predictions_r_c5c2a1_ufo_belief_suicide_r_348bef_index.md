@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-ufo-belief/
 description: Focused pages that expand on Irreversible Risk.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_ufo_belief_suicide_r_348bef
 parent_title: Irreversible Risk | failed predictions relating to UFOs

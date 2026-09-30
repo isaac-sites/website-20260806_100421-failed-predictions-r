@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 08:29:58'
+last_modified_at: '2026-08-06 08:29:58'
 parent_title: Which UFO Promises Are Easiest to Test? | UFO Deadlines
 parent_permalink: /claim-types/
 parent_nav_short_title: Claim Types

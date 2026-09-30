@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 07:36:00'
+last_modified_at: '2026-08-06 07:36:00'
 parent_title: How to Preserve a UFO Prediction for Testing | UFO Deadlines
 parent_permalink: /prediction-records/
 parent_nav_short_title: Prediction Records

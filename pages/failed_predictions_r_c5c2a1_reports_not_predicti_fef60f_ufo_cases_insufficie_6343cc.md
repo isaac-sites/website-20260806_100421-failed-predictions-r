@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 07:09:44'
+last_modified_at: '2026-08-06 07:09:44'
 parent_title: Why an Unexplained UFO Is Not a Prophecy | failed predictions relating to UFOs
 parent_permalink: /reports-vs-forecasts/
 parent_nav_short_title: Reports vs Forecasts

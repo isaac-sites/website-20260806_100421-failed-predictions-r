@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 03:50:23'
+last_modified_at: '2026-08-06 03:50:23'
 parent_title: Did Watching the UFO Believers Change Them? | UFO Deadlines
 parent_permalink: /observer-effects/
 parent_nav_short_title: Observer Effects
