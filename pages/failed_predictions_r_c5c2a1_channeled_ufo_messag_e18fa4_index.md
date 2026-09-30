@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-channeled/
 description: Focused pages that expand on Channelled Claims.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_channeled_ufo_messag_e18fa4
 parent_title: Channelled Claims | failed predictions relating to UFOs

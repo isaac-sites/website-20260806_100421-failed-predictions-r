@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 01:29:30'
+last_modified_at: '2026-08-06 01:29:30'
 parent_title: When Does a UFO Claim Truly Fail? | failed predictions relating to UFOs
 parent_permalink: /falsifiability/
 parent_nav_short_title: Falsifiability

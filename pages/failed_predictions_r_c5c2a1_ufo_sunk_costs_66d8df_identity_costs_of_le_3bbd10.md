@@ -295,6 +295,7 @@ next_link:
   short_title: Martin Case
   heading_title: Why the Missing Spaceship Strengthened Belief
 date: '2026-08-06 09:36:38 '
+last_modified_at: '2026-08-06 09:36:38 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_identity_costs_of_le_3bbd10-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_identity_costs_of_le_3bbd10-Illustration-1.webp

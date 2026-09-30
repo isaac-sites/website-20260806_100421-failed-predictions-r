@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-comet/
 description: Focused pages that expand on Comet UFOs.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_comet_spacecraft_rum_b3a70b
 parent_title: Comet UFOs | failed predictions relating to UFOs

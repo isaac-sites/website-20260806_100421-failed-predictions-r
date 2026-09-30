@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-ufo/
 description: Focused pages that expand on Claim Types.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_ufo_prediction_types_8ea516
 parent_title: Claim Types | failed predictions relating to UFOs

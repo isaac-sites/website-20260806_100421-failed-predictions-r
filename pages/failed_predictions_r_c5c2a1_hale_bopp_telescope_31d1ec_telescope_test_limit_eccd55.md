@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 04:28:50'
+last_modified_at: '2026-08-06 04:28:50'
 parent_title: What Happens When the Telescope Shows Nothing? | UFO Deadlines
 parent_permalink: /telescope-test/
 parent_nav_short_title: Telescope Test

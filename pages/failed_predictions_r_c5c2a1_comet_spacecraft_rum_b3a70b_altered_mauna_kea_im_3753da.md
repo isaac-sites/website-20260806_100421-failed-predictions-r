@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 04:57:35'
+last_modified_at: '2026-08-06 04:57:35'
 parent_title: Why Comets Attract Hidden Spacecraft Rumours | failed predictions relating to UFOs
 parent_permalink: /comet-ufos/
 parent_nav_short_title: Comet UFOs
