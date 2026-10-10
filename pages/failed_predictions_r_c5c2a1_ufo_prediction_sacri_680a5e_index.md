@@ -6,7 +6,7 @@ title_full: Personal Costs Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /failed-predictions-r-c5c2a1-ufo/
+permalink: /failed-predictions-r-c5c2a1-costs/
 description: Focused pages that expand on Personal Costs.
 date: '2026'
 layout: default
