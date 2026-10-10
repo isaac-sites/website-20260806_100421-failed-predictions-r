@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-humanity/
 description: Focused pages that expand on Not Ready.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_humanity_not_ready_435b8b
 parent_title: Not Ready | failed predictions relating to UFOs

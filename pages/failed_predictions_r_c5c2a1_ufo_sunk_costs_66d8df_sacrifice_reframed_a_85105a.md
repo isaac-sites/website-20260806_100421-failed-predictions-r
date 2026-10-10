@@ -289,6 +289,7 @@ next_link:
   short_title: Cost of Leaving
   heading_title: What Believers Risk by Admitting They Were Wrong
 date: '2026-08-06 09:36:48 '
+last_modified_at: '2026-08-06 09:36:48 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_sacrifice_reframed_a_85105a-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_ufo_sunk_costs_66d8df_sacrifice_reframed_a_85105a-Illustration-1.webp

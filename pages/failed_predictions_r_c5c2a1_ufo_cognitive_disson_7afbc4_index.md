@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-ufo/
 description: Focused pages that expand on Dissonance.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_ufo_cognitive_disson_7afbc4
 parent_title: Dissonance | failed predictions relating to UFOs

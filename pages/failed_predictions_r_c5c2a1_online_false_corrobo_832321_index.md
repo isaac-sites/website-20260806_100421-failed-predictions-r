@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-online/
 description: Focused pages that expand on False Corroboration.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_online_false_corrobo_832321
 parent_title: False Corroboration | failed predictions relating to UFOs

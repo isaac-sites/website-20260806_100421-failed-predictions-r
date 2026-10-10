@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1/
 description: Focused pages that expand on Prediction Records.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_documenting_ufo_pred_0ba123
 parent_title: Prediction Records | failed predictions relating to UFOs

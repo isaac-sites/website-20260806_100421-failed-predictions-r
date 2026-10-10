@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-vague-ufo/
 description: Focused pages that expand on Vague Forecasts.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_vague_ufo_forecasts_b87027
 parent_title: Vague Forecasts | failed predictions relating to UFOs

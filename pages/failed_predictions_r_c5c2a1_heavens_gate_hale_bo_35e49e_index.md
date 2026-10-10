@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-heavens/
 description: Focused pages that expand on Heaven s Gate.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e
 parent_title: Heaven s Gate | failed predictions relating to UFOs

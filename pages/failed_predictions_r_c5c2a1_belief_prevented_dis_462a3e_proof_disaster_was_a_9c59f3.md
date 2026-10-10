@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 02:39:06'
+last_modified_at: '2026-08-06 02:39:06'
 parent_title: Can a Failed Prophecy Claim It Saved the World? | failed predictions relating to UFOs
 parent_permalink: /disaster-averted/
 parent_nav_short_title: Disaster Averted

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 06:16:24'
+last_modified_at: '2026-08-06 06:16:24'
 parent_title: Can Channelled UFO Messages Ever Be Tested? | failed predictions relating to UFOs
 parent_permalink: /channelled-claims/
 parent_nav_short_title: Channelled Claims

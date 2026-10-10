@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 03:30:02'
+last_modified_at: '2026-08-06 03:30:02'
 parent_title: Did Researchers Distort the Classic UFO Prophecy Case? | UFO Deadlines
 parent_permalink: /study-dispute/
 parent_nav_short_title: Study Dispute

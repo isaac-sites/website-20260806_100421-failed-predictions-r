@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 05:37:08'
+last_modified_at: '2026-08-06 05:37:08'
 parent_title: How Publicity Raises the Cost of a Failed Landing | failed predictions relating to UFOs
 parent_permalink: /press-attention/
 parent_nav_short_title: Press Attention
