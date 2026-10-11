@@ -6,7 +6,7 @@ title_full: Claim Types Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /failed-predictions-r-c5c2a1-ufo/
+permalink: /failed-predictions-r-c5c2a1-claims/
 description: Focused pages that expand on Claim Types.
 date: '2026'
 last_modified_at: '2026'
